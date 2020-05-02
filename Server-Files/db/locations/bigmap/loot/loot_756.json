@@ -1,0 +1,25 @@
+{
+	"Id": "loot_case_feld6935616",
+	"IsStatic": false,
+	"useGravity": false,
+	"randomRotation": false,
+	"Position": {
+		"x": 239.183,
+		"y": 0.713,
+		"z": 160.595
+	},
+	"Rotation": {
+		"x": 88.61195,
+		"y": 270.000122,
+		"z": 0.00007048267
+	},
+	"IsGroupPosition": false,
+	"GroupPositions": [],
+	"Root": "5e382a168e89a76b703a1d45",
+	"Items": [
+		{
+			"_id": "5e382a168e89a76b703a1d45",
+			"_tpl": "5910922b86f7747d96753483"
+		}
+	]
+}

@@ -1,0 +1,25 @@
+{
+	"Id": "LootWeaponMod (7)2295682",
+	"IsStatic": false,
+	"useGravity": true,
+	"randomRotation": false,
+	"Position": {
+		"x": 55.10199,
+		"y": -1.93000031,
+		"z": -47.6050034
+	},
+	"Rotation": {
+		"x": 0,
+		"y": 0,
+		"z": 0
+	},
+	"IsGroupPosition": false,
+	"GroupPositions": [],
+	"Root": "5e382a127e788532af35ff59",
+	"Items": [
+		{
+			"_id": "5e382a127e788532af35ff59",
+			"_tpl": "5cff9e84d7ad1a049e54ed55"
+		}
+	]
+}

@@ -1,0 +1,25 @@
+{
+	"Id": "SPAWNS/ScavPMCspawn (65)",
+	"Sides": [
+		"Usec",
+		"Bear",
+		"Savage"
+	],
+	"InfiltrationZone": "Common",
+	"Position": {
+		"x": -249.12,
+		"y": -6.04,
+		"z": 75.76001
+	},
+	"Center": {
+		"x": 0,
+		"y": 0,
+		"z": 0
+	},
+	"Size": {
+		"x": 0,
+		"y": 0,
+		"z": 0
+	},
+	"Orientation": 110.65
+}

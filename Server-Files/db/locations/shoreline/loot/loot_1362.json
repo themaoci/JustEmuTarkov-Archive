@@ -1,0 +1,36 @@
+{
+	"Id": "Loot_vild_MBSS[4] (6)4372474",
+	"IsStatic": false,
+	"useGravity": false,
+	"randomRotation": false,
+	"Position": {
+		"x": 202.03894,
+		"y": -60.296,
+		"z": 348.867981
+	},
+	"Rotation": {
+		"x": 12.6624174,
+		"y": 77.2612152,
+		"z": 352.346771
+	},
+	"IsGroupPosition": false,
+	"GroupPositions": [],
+	"Root": "5e3829fff470ac6fd82e7289",
+	"Items": [
+		{
+			"_id": "5e3829fff470ac6fd82e7289",
+			"_tpl": "56e335e4d2720b6c058b456d"
+		},
+		{
+			"_id": "5e3829fff470ac6fd82e728a",
+			"_tpl": "59e6318286f77444dd62c4cc",
+			"parentId": "5e3829fff470ac6fd82e7289",
+			"slotId": "main",
+			"location": {
+				"x": 0,
+				"y": 0,
+				"r": 0
+			}
+		}
+	]
+}

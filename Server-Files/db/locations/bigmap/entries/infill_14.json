@@ -1,0 +1,25 @@
+{
+	"Id": "spawns_var1/Start1 (21)",
+	"Sides": [
+		"Usec",
+		"Bear",
+		"Savage"
+	],
+	"InfiltrationZone": "Customs",
+	"Position": {
+		"x": -132.902,
+		"y": -1.67200017,
+		"z": 39.90399
+	},
+	"Center": {
+		"x": 0,
+		"y": 0,
+		"z": 0
+	},
+	"Size": {
+		"x": 0,
+		"y": 0,
+		"z": 0
+	},
+	"Orientation": 180.129913
+}

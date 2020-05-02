@@ -1,0 +1,25 @@
+{
+	"Id": "spawns_var2/BoilerStart1 (47)",
+	"Sides": [
+		"Usec",
+		"Bear",
+		"Savage"
+	],
+	"InfiltrationZone": "Boiler Tanks",
+	"Position": {
+		"x": 585.738,
+		"y": 9.528,
+		"z": 145.814
+	},
+	"Center": {
+		"x": 0,
+		"y": 0,
+		"z": 0
+	},
+	"Size": {
+		"x": 0,
+		"y": 0,
+		"z": 0
+	},
+	"Orientation": 216.786987
+}

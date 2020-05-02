@@ -1,0 +1,50 @@
+function generateAll() {
+    let base = json.parse(json.read("db/cache/locations.json"));
+    let keys = Object.keys(filepaths.maps);
+
+    // load maps
+    for (let mapName of keys) {
+        if (typeof maps[mapName] === "undefined") {
+            maps[mapName] = json.parse(json.read(filepaths.maps[mapName].base));
+
+            let map = maps[mapName];
+            let mapPath = "db/maps/" + mapName + "/";
+
+            for (let exit in map.exits) {
+                json.write(mapPath + "exits/exfill_" + exit + ".json", map.exits[exit]);
+            }
+
+            for (let wave in map.waves) {
+                json.write(mapPath + "waves/wave_" + wave + ".json", map.waves[wave]);
+            }
+
+            for (let spawn in map.SpawnAreas) {
+                json.write(mapPath + "entries/infill_" + spawn + ".json", map.SpawnAreas[spawn]);
+            }
+
+            if (map.BossLocationSpawn !== false) {
+                for (let spawn in map.BossLocationSpawn) {
+                    json.write(mapPath + "bosses/boss_" + spawn + ".json", map.BossLocationSpawn[spawn]);
+                }
+            }
+
+            map.Loot = [];
+            map.waves = [];
+            map.exits = [];
+            map.SpawnAreas = [];
+            map.BossLocationSpawn = [];
+
+            json.write(filepaths.maps[mapName].base, maps[mapName]);
+        }
+    }
+
+    // use right id's
+    let data = {};
+
+    for (let mapName in maps) {
+        data[maps[mapName]._Id] = maps[mapName];
+    }
+
+    base.data.locations = data;
+    return json.stringify(base);
+}

@@ -1,0 +1,25 @@
+{
+	"Id": "NW_SPAWNS/2_2(10)",
+	"Sides": [
+		"Usec",
+		"Bear",
+		"Savage"
+	],
+	"InfiltrationZone": "MallNW",
+	"Position": {
+		"x": 315.66333,
+		"y": 17.2900047,
+		"z": -133.942383
+	},
+	"Center": {
+		"x": 0,
+		"y": 0,
+		"z": 0
+	},
+	"Size": {
+		"x": 0,
+		"y": 0,
+		"z": 0
+	},
+	"Orientation": 267.59
+}

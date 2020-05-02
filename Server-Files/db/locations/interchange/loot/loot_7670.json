@@ -1,0 +1,25 @@
+{
+	"Id": "loot_grenad (14)5868530",
+	"IsStatic": false,
+	"useGravity": true,
+	"randomRotation": true,
+	"Position": {
+		"x": -16.9696732,
+		"y": 28.0647087,
+		"z": -23.4389763
+	},
+	"Rotation": {
+		"x": -0.00000143241459,
+		"y": 0.00000341509417,
+		"z": 0.00000310017072
+	},
+	"IsGroupPosition": false,
+	"GroupPositions": [],
+	"Root": "5e0675dc9a5d683c327ed2b8",
+	"Items": [
+		{
+			"_id": "5e0675dc9a5d683c327ed2b8",
+			"_tpl": "5710c24ad2720bc3458b45a3"
+		}
+	]
+}

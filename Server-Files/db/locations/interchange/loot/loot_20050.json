@@ -1,0 +1,25 @@
+{
+	"Id": "loot_small_jeverly_money (4)5862824",
+	"IsStatic": false,
+	"useGravity": true,
+	"randomRotation": true,
+	"Position": {
+		"x": 91.83545,
+		"y": 27.29581,
+		"z": -240.110352
+	},
+	"Rotation": {
+		"x": 0,
+		"y": 46,
+		"z": 0
+	},
+	"IsGroupPosition": false,
+	"GroupPositions": [],
+	"Root": "5db5d04d5442d7070d0f4485",
+	"Items": [
+		{
+			"_id": "5db5d04d5442d7070d0f4485",
+			"_tpl": "59faf7ca86f7740dbe19f6c2"
+		}
+	]
+}

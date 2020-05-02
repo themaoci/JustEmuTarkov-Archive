@@ -1,0 +1,25 @@
+{
+	"Id": "LootFood[5] (1)4379930",
+	"IsStatic": false,
+	"useGravity": true,
+	"randomRotation": false,
+	"Position": {
+		"x": -263.166016,
+		"y": -3.767,
+		"z": -38.914
+	},
+	"Rotation": {
+		"x": 1.27222189e-14,
+		"y": 66.2497,
+		"z": -4.32207969e-7
+	},
+	"IsGroupPosition": false,
+	"GroupPositions": [],
+	"Root": "5e382a0a8e89a76b703a1749",
+	"Items": [
+		{
+			"_id": "5e382a0a8e89a76b703a1749",
+			"_tpl": "57347da92459774491567cf5"
+		}
+	]
+}

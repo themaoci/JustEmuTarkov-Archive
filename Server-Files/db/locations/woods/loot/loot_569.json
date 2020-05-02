@@ -1,0 +1,25 @@
+{
+	"Id": "LootTool 3 (8)2284084",
+	"IsStatic": false,
+	"useGravity": true,
+	"randomRotation": false,
+	"Position": {
+		"x": 115.247009,
+		"y": -2.68900013,
+		"z": 9.114998
+	},
+	"Rotation": {
+		"x": 0,
+		"y": 0,
+		"z": 0
+	},
+	"IsGroupPosition": false,
+	"GroupPositions": [],
+	"Root": "5e382a127e788532af35ff53",
+	"Items": [
+		{
+			"_id": "5e382a127e788532af35ff53",
+			"_tpl": "590c5d4b86f774784e1b9c45"
+		}
+	]
+}

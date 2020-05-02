@@ -1,0 +1,34 @@
+{
+	"Id": "loot_mod_true (95)3925868",
+	"IsStatic": false,
+	"useGravity": true,
+	"randomRotation": true,
+	"Position": {
+		"x": 197.437988,
+		"y": -5.717,
+		"z": -200.715
+	},
+	"Rotation": {
+		"x": 0,
+		"y": 0,
+		"z": 0
+	},
+	"IsGroupPosition": false,
+	"GroupPositions": [],
+	"Root": "5e382a0468b10c71c3112295",
+	"Items": [
+		{
+			"_id": "5e382a0468b10c71c3112295",
+			"_tpl": "55d480c04bdc2d1d4e8b456a"
+		},
+		{
+			"_id": "5e382a0468b10c71c3112296",
+			"_tpl": "56dff3afd2720bba668b4567",
+			"parentId": "5e382a0468b10c71c3112295",
+			"slotId": "cartridges",
+			"upd": {
+				"StackObjectsCount": 7
+			}
+		}
+	]
+}

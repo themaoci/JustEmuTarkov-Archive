@@ -1,0 +1,39 @@
+{
+	"Id": "bag_MBSS (2)5869966",
+	"IsStatic": false,
+	"useGravity": false,
+	"randomRotation": false,
+	"Position": {
+		"x": -16.207962,
+		"y": 36.84981,
+		"z": -160.13678
+	},
+	"Rotation": {
+		"x": 274.02243,
+		"y": -0.00004868321,
+		"z": 303.429138
+	},
+	"IsGroupPosition": false,
+	"GroupPositions": [],
+	"Root": "5db5d061533aa77c477a64a4",
+	"Items": [
+		{
+			"_id": "5db5d061533aa77c477a64a4",
+			"_tpl": "544a5cde4bdc2d39388b456b"
+		},
+		{
+			"_id": "5db5d061533aa77c477a64a5",
+			"_tpl": "5735ff5c245977640e39ba7e",
+			"parentId": "5db5d061533aa77c477a64a4",
+			"slotId": "main",
+			"location": {
+				"x": 0,
+				"y": 0,
+				"r": 0
+			},
+			"upd": {
+				"StackObjectsCount": 8
+			}
+		}
+	]
+}

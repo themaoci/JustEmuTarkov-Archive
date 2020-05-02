@@ -1,0 +1,25 @@
+{
+	"Id": "case_0060[1] (3)4378266",
+	"IsStatic": false,
+	"useGravity": false,
+	"randomRotation": false,
+	"Position": {
+		"x": -226.552,
+		"y": 2.089,
+		"z": -87.571
+	},
+	"Rotation": {
+		"x": 270,
+		"y": 69.19153,
+		"z": 0
+	},
+	"IsGroupPosition": false,
+	"GroupPositions": [],
+	"Root": "5e3829f37e788532af35f817",
+	"Items": [
+		{
+			"_id": "5e3829f37e788532af35f817",
+			"_tpl": "5d357d6b86f7745b606e3508"
+		}
+	]
+}

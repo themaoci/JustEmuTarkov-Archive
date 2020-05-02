@@ -1,0 +1,44 @@
+{
+	"Id": "loot_ammo_sup (32)4565496",
+	"IsStatic": false,
+	"useGravity": true,
+	"randomRotation": true,
+	"Position": {
+		"x": -256.166,
+		"y": 4.206,
+		"z": -321.066
+	},
+	"Rotation": {
+		"x": 0,
+		"y": 0,
+		"z": 0
+	},
+	"IsGroupPosition": false,
+	"GroupPositions": [],
+	"Root": "5e0675f7243fd85e273fe709",
+	"Items": [
+		{
+			"_id": "5e0675f7243fd85e273fe709",
+			"_tpl": "5737292724597765e5728562"
+		},
+		{
+			"_id": "5e0675f7243fd85e273fe70a",
+			"_tpl": "56dfef82d2720bbd668b4567",
+			"parentId": "5e0675f7243fd85e273fe709",
+			"slotId": "cartridges",
+			"upd": {
+				"StackObjectsCount": 60
+			}
+		},
+		{
+			"_id": "5e0675f7243fd85e273fe70b",
+			"_tpl": "56dfef82d2720bbd668b4567",
+			"parentId": "5e0675f7243fd85e273fe709",
+			"slotId": "cartridges",
+			"location": 1,
+			"upd": {
+				"StackObjectsCount": 60
+			}
+		}
+	]
+}

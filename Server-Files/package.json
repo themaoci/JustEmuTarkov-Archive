@@ -1,0 +1,40 @@
+{
+  "name": "JustEmuTarkov-Server",
+  "description": "Escape From Tarkov server emulator",
+  "version": "0.8.0",
+  "main": "scripts/main.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/justemutarkov/EmuTarkov-Server.git"
+  },
+  "keywords": [
+    "jet",
+    "jet-server",
+    "justemutarkov",
+    "emutarkov",
+    "emutarkov-server",
+    "emulator",
+    "server-emulator"
+  ],
+  "author": "JustEmuTarkov Team",
+  "contributors": [
+    "TheMaoci",
+    "InNoHurryToCode",
+    "BALIST0N",
+    "Macmillanic",
+    "Mr RUSS",
+    "Windel",
+    "Йуpасзка"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/justemutarkov/EmuTarkov-Server/issues"
+  },
+  "homepage": "https://justemutarkov.github.io",
+  "dependencies": {
+    "upx": "^1.0.0",
+    "nexe": "^3.3.0",
+    "adler32": "^0.1.7",
+    "selfsigned": "^1.10.7"
+  }
+}

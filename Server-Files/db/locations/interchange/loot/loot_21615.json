@@ -1,0 +1,25 @@
+{
+	"Id": "loot_med_morph5863130",
+	"IsStatic": false,
+	"useGravity": true,
+	"randomRotation": true,
+	"Position": {
+		"x": 5.772339,
+		"y": 28.12981,
+		"z": -105.368286
+	},
+	"Rotation": {
+		"x": 0,
+		"y": 270,
+		"z": 0
+	},
+	"IsGroupPosition": false,
+	"GroupPositions": [],
+	"Root": "5db5d04c5442d7070d0f4356",
+	"Items": [
+		{
+			"_id": "5db5d04c5442d7070d0f4356",
+			"_tpl": "544fb3f34bdc2d03748b456a"
+		}
+	]
+}

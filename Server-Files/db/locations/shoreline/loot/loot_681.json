@@ -1,0 +1,25 @@
+{
+	"Id": "Loot_bus_garbage(Clone)4374642",
+	"IsStatic": false,
+	"useGravity": true,
+	"randomRotation": false,
+	"Position": {
+		"x": -915.329956,
+		"y": -56.88121,
+		"z": 254.208908
+	},
+	"Rotation": {
+		"x": -0.000135163049,
+		"y": 20.39192,
+		"z": 183.296112
+	},
+	"IsGroupPosition": false,
+	"GroupPositions": [],
+	"Root": "5e3829f37e788532af35f888",
+	"Items": [
+		{
+			"_id": "5e3829f37e788532af35f888",
+			"_tpl": "59e35ef086f7741777737012"
+		}
+	]
+}

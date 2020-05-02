@@ -1,0 +1,25 @@
+{
+	"Id": "quest_chemcontainer34944300",
+	"IsStatic": false,
+	"useGravity": false,
+	"randomRotation": false,
+	"Position": {
+		"x": 19.3435,
+		"y": 28.1595,
+		"z": -106.6355
+	},
+	"Rotation": {
+		"x": 32.18115,
+		"y": 268.8935,
+		"z": 0.238866478
+	},
+	"IsGroupPosition": false,
+	"GroupPositions": [],
+	"Root": "5d31e3cf645bb7074f70692a",
+	"Items": [
+		{
+			"_id": "5d31e3cf645bb7074f70692a",
+			"_tpl": "5b4c81a086f77417d26be63f"
+		}
+	]
+}

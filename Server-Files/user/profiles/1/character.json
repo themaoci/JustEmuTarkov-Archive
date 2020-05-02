@@ -1,0 +1,2548 @@
+{
+	"_id": "pmc1",
+	"aid": 1,
+	"savage": "scav1",
+	"Info": {
+		"Nickname": "Senko-san",
+		"LowerNickname": "senko-san",
+		"Side": "Bear",
+		"Voice": "Bear_2",
+		"Level": 69,
+		"Experience": 13131115,
+		"RegistrationDate": 1576516011,
+		"GameVersion": "edge_of_darkness",
+		"AccountType": 0,
+		"MemberCategory": "Developer",
+		"lockedMoveCommands": false,
+		"SavageLockTime": 0,
+		"LastTimePlayedAsSavage": 0,
+		"Settings": {
+			"Role": "assault",
+			"BotDifficulty": "easy",
+			"Experience": -1
+		},
+		"NeedWipe": false,
+		"GlobalWipe": false,
+		"NicknameChangeDate": 0,
+		"Bans": []
+	},
+	"Customization": {
+		"Head": "5d28b03e86f7747f7e69ab8a",
+		"Body": "5d1f566d86f7744bcd13459a",
+		"Feet": "5df8a15186f77412640e2e6a",
+		"Hands": "5d1f5a9786f7743014162046"
+	},
+	"Health": {
+		"Hydration": {
+			"Current": 100,
+			"Maximum": 100
+		},
+		"Energy": {
+			"Current": 100,
+			"Maximum": 100
+		},
+		"BodyParts": {
+			"Head": {
+				"Health": {
+					"Current": 35,
+					"Maximum": 35
+				}
+			},
+			"Chest": {
+				"Health": {
+					"Current": 80,
+					"Maximum": 80
+				}
+			},
+			"Stomach": {
+				"Health": {
+					"Current": 70,
+					"Maximum": 70
+				}
+			},
+			"LeftArm": {
+				"Health": {
+					"Current": 60,
+					"Maximum": 60
+				}
+			},
+			"RightArm": {
+				"Health": {
+					"Current": 60,
+					"Maximum": 60
+				}
+			},
+			"LeftLeg": {
+				"Health": {
+					"Current": 65,
+					"Maximum": 65
+				}
+			},
+			"RightLeg": {
+				"Health": {
+					"Current": 65,
+					"Maximum": 65
+				}
+			}
+		},
+		"UpdateTime": 1576516011
+	},
+	"Inventory": {
+		"items": [
+			{
+				"_id": "5df7b9abef12bf7a252437a1",
+				"_tpl": "55d7217a4bdc2d86028b456d"
+			},
+			{
+				"_id": "5df7b9abef12bf7a252437a0",
+				"_tpl": "557ffd194bdc2d28148b457f",
+				"parentId": "5df7b9abef12bf7a252437a1",
+				"slotId": "Pockets"
+			},
+			{
+				"_id": "5df7b9abef12bf7a2524385f",
+				"_tpl": "566abbc34bdc2d92178b4576"
+			},
+			{
+				"_id": "5df7b9abef12bf7a252437a2",
+				"_tpl": "5755356824597772cb798962",
+				"parentId": "5df7b9abef12bf7a2524385f",
+				"slotId": "hideout",
+				"location": {
+					"x": 1,
+					"y": 12,
+					"r": "Horizontal",
+					"isSearched": true
+				},
+				"upd": {
+					"MedKit": {
+						"HpResource": 100
+					}
+				}
+			},
+			{
+				"_id": "5df7b9abef12bf7a252437a3",
+				"_tpl": "544fb3364bdc2d34748b456a",
+				"parentId": "5df7b9abef12bf7a2524385f",
+				"slotId": "hideout",
+				"location": {
+					"x": 4,
+					"y": 11,
+					"r": "Horizontal",
+					"isSearched": true
+				}
+			},
+			{
+				"_id": "5df7b9abef12bf7a252437a5",
+				"_tpl": "5448fee04bdc2dbc018b4567",
+				"parentId": "5df7b9abef12bf7a2524385f",
+				"slotId": "hideout",
+				"location": {
+					"x": 5,
+					"y": 8,
+					"r": "Horizontal",
+					"isSearched": true
+				},
+				"upd": {
+					"FoodDrink": {
+						"HpPercent": 60
+					}
+				}
+			},
+			{
+				"_id": "5df7b9abef12bf7a252437a7",
+				"_tpl": "56d59d3ad2720bdb418b4577",
+				"parentId": "5df7b9abef12bf7a2524385f",
+				"slotId": "hideout",
+				"location": {
+					"x": 5,
+					"y": 0,
+					"r": "Horizontal",
+					"isSearched": true
+				},
+				"upd": {
+					"StackObjectsCount": 50
+				}
+			},
+			{
+				"_id": "5df7b9abef12bf7a252437ab",
+				"_tpl": "56d59948d2720bb7418b4582",
+				"parentId": "5df7b9abef12bf7a2524385f",
+				"slotId": "hideout",
+				"location": {
+					"x": 2,
+					"y": 2,
+					"r": "Horizontal",
+					"isSearched": true
+				}
+			},
+			{
+				"_id": "5df7b9abef12bf7a252437aa",
+				"_tpl": "56d59d3ad2720bdb418b4577",
+				"parentId": "5df7b9abef12bf7a252437ab",
+				"slotId": "cartridges",
+				"upd": {
+					"StackObjectsCount": 15
+				}
+			},
+			{
+				"_id": "5df7b9abef12bf7a252437ac",
+				"_tpl": "5755356824597772cb798962",
+				"parentId": "5df7b9abef12bf7a2524385f",
+				"slotId": "hideout",
+				"location": {
+					"x": 0,
+					"y": 10,
+					"r": "Horizontal",
+					"isSearched": true
+				},
+				"upd": {
+					"MedKit": {
+						"HpResource": 100
+					}
+				}
+			},
+			{
+				"_id": "5df7b9abef12bf7a252437ad",
+				"_tpl": "5448fee04bdc2dbc018b4567",
+				"parentId": "5df7b9abef12bf7a2524385f",
+				"slotId": "hideout",
+				"location": {
+					"x": 4,
+					"y": 6,
+					"r": "Horizontal",
+					"isSearched": true
+				},
+				"upd": {
+					"FoodDrink": {
+						"HpPercent": 60
+					}
+				}
+			},
+			{
+				"_id": "5df7b9abef12bf7a252437b1",
+				"_tpl": "5755356824597772cb798962",
+				"parentId": "5df7b9abef12bf7a2524385f",
+				"slotId": "hideout",
+				"location": {
+					"x": 0,
+					"y": 11,
+					"r": "Horizontal",
+					"isSearched": true
+				},
+				"upd": {
+					"MedKit": {
+						"HpResource": 100
+					}
+				}
+			},
+			{
+				"_id": "5df7b9abef12bf7a252437b3",
+				"_tpl": "5448c12b4bdc2d02308b456f",
+				"parentId": "5df7b9abef12bf7a2524385f",
+				"slotId": "hideout",
+				"location": {
+					"x": 3,
+					"y": 5,
+					"r": 0,
+					"isSearched": true
+				}
+			},
+			{
+				"_id": "5df7b9abef12bf7a252437b2",
+				"_tpl": "573718ba2459775a75491131",
+				"parentId": "5df7b9abef12bf7a252437b3",
+				"slotId": "cartridges",
+				"upd": {
+					"StackObjectsCount": 8
+				}
+			},
+			{
+				"_id": "5df7b9abef12bf7a252437b6",
+				"_tpl": "5448c12b4bdc2d02308b456f",
+				"parentId": "5df7b9abef12bf7a2524385f",
+				"slotId": "hideout",
+				"location": {
+					"x": 3,
+					"y": 3,
+					"r": "Horizontal",
+					"isSearched": true
+				}
+			},
+			{
+				"_id": "5df7b9abef12bf7a252437b5",
+				"_tpl": "573718ba2459775a75491131",
+				"parentId": "5df7b9abef12bf7a252437b6",
+				"slotId": "cartridges",
+				"upd": {
+					"StackObjectsCount": 8
+				}
+			},
+			{
+				"_id": "5df7b9abef12bf7a252437b8",
+				"_tpl": "5448c12b4bdc2d02308b456f",
+				"parentId": "5df7b9abef12bf7a2524385f",
+				"slotId": "hideout",
+				"location": {
+					"x": 3,
+					"y": 4,
+					"r": "Horizontal",
+					"isSearched": true
+				}
+			},
+			{
+				"_id": "5df7b9abef12bf7a252437b7",
+				"_tpl": "573718ba2459775a75491131",
+				"parentId": "5df7b9abef12bf7a252437b8",
+				"slotId": "cartridges",
+				"upd": {
+					"StackObjectsCount": 8
+				}
+			},
+			{
+				"_id": "5df7b9abef12bf7a252437b9",
+				"_tpl": "544fb25a4bdc2dfb738b4567",
+				"parentId": "5df7b9abef12bf7a2524385f",
+				"slotId": "hideout",
+				"location": {
+					"x": 2,
+					"y": 12,
+					"r": "Horizontal",
+					"isSearched": true
+				}
+			},
+			{
+				"_id": "5df7b9abef12bf7a252437ba",
+				"_tpl": "5755356824597772cb798962",
+				"parentId": "5df7b9abef12bf7a2524385f",
+				"slotId": "hideout",
+				"location": {
+					"x": 1,
+					"y": 11,
+					"r": "Horizontal",
+					"isSearched": true
+				},
+				"upd": {
+					"MedKit": {
+						"HpResource": 100
+					}
+				}
+			},
+			{
+				"_id": "5df7b9abef12bf7a252437bb",
+				"_tpl": "5755356824597772cb798962",
+				"parentId": "5df7b9abef12bf7a2524385f",
+				"slotId": "hideout",
+				"location": {
+					"x": 0,
+					"y": 12,
+					"r": "Horizontal",
+					"isSearched": true
+				},
+				"upd": {
+					"MedKit": {
+						"HpResource": 100
+					}
+				}
+			},
+			{
+				"_id": "5df7b9abef12bf7a252437bc",
+				"_tpl": "544fb3364bdc2d34748b456a",
+				"parentId": "5df7b9abef12bf7a2524385f",
+				"slotId": "hideout",
+				"location": {
+					"x": 5,
+					"y": 12,
+					"r": "Horizontal",
+					"isSearched": true
+				}
+			},
+			{
+				"_id": "5df7b9abef12bf7a252437bd",
+				"_tpl": "5755356824597772cb798962",
+				"parentId": "5df7b9abef12bf7a2524385f",
+				"slotId": "hideout",
+				"location": {
+					"x": 1,
+					"y": 10,
+					"r": "Horizontal",
+					"isSearched": true
+				},
+				"upd": {
+					"MedKit": {
+						"HpResource": 100
+					}
+				}
+			},
+			{
+				"_id": "5df7b9abef12bf7a252437bf",
+				"_tpl": "544fb3364bdc2d34748b456a",
+				"parentId": "5df7b9abef12bf7a2524385f",
+				"slotId": "hideout",
+				"location": {
+					"x": 4,
+					"y": 10,
+					"r": "Horizontal",
+					"isSearched": true
+				}
+			},
+			{
+				"_id": "5df7b9abef12bf7a252437c1",
+				"_tpl": "56d59d3ad2720bdb418b4577",
+				"parentId": "5df7b9abef12bf7a2524385f",
+				"slotId": "hideout",
+				"location": {
+					"x": 5,
+					"y": 2,
+					"r": "Horizontal",
+					"isSearched": true
+				},
+				"upd": {
+					"StackObjectsCount": 50
+				}
+			},
+			{
+				"_id": "5df7b9abef12bf7a252437c3",
+				"_tpl": "544fb3364bdc2d34748b456a",
+				"parentId": "5df7b9abef12bf7a2524385f",
+				"slotId": "hideout",
+				"location": {
+					"x": 4,
+					"y": 12,
+					"r": "Horizontal",
+					"isSearched": true
+				}
+			},
+			{
+				"_id": "5df7b9abef12bf7a252437c4",
+				"_tpl": "544fb3364bdc2d34748b456a",
+				"parentId": "5df7b9abef12bf7a2524385f",
+				"slotId": "hideout",
+				"location": {
+					"x": 5,
+					"y": 10,
+					"r": "Horizontal",
+					"isSearched": true
+				}
+			},
+			{
+				"_id": "5df7b9abef12bf7a252437c6",
+				"_tpl": "56d59948d2720bb7418b4582",
+				"parentId": "5df7b9abef12bf7a2524385f",
+				"slotId": "hideout",
+				"location": {
+					"x": 4,
+					"y": 2,
+					"r": "Horizontal",
+					"isSearched": true
+				}
+			},
+			{
+				"_id": "5df7b9abef12bf7a252437c5",
+				"_tpl": "58864a4f2459770fcc257101",
+				"parentId": "5df7b9abef12bf7a252437c6",
+				"slotId": "cartridges",
+				"upd": {
+					"StackObjectsCount": 15
+				}
+			},
+			{
+				"_id": "5df7b9abef12bf7a252437c7",
+				"_tpl": "57347d7224597744596b4e72",
+				"parentId": "5df7b9abef12bf7a2524385f",
+				"slotId": "hideout",
+				"location": {
+					"x": 7,
+					"y": 7,
+					"r": "Horizontal",
+					"isSearched": true
+				},
+				"upd": {
+					"FoodDrink": {
+						"HpPercent": 1
+					}
+				}
+			},
+			{
+				"_id": "5df7b9abef12bf7a252437ca",
+				"_tpl": "5448c12b4bdc2d02308b456f",
+				"parentId": "5df7b9abef12bf7a2524385f",
+				"slotId": "hideout",
+				"location": {
+					"x": 4,
+					"y": 5,
+					"r": 0,
+					"isSearched": true
+				}
+			},
+			{
+				"_id": "5df7b9abef12bf7a252437c9",
+				"_tpl": "573718ba2459775a75491131",
+				"parentId": "5df7b9abef12bf7a252437ca",
+				"slotId": "cartridges",
+				"upd": {
+					"StackObjectsCount": 8
+				}
+			},
+			{
+				"_id": "5df7b9abef12bf7a252437ce",
+				"_tpl": "56d59948d2720bb7418b4582",
+				"parentId": "5df7b9abef12bf7a2524385f",
+				"slotId": "hideout",
+				"location": {
+					"x": 3,
+					"y": 1,
+					"r": "Horizontal",
+					"isSearched": true
+				}
+			},
+			{
+				"_id": "5df7b9abef12bf7a252437cd",
+				"_tpl": "56d59d3ad2720bdb418b4577",
+				"parentId": "5df7b9abef12bf7a252437ce",
+				"slotId": "cartridges",
+				"upd": {
+					"StackObjectsCount": 15
+				}
+			},
+			{
+				"_id": "5df7b9abef12bf7a252437d0",
+				"_tpl": "5448c12b4bdc2d02308b456f",
+				"parentId": "5df7b9abef12bf7a2524385f",
+				"slotId": "hideout",
+				"location": {
+					"x": 4,
+					"y": 3,
+					"r": "Horizontal",
+					"isSearched": true
+				}
+			},
+			{
+				"_id": "5df7b9abef12bf7a252437cf",
+				"_tpl": "573718ba2459775a75491131",
+				"parentId": "5df7b9abef12bf7a252437d0",
+				"slotId": "cartridges",
+				"upd": {
+					"StackObjectsCount": 8
+				}
+			},
+			{
+				"_id": "5df7b9abef12bf7a252437d2",
+				"_tpl": "5448c12b4bdc2d02308b456f",
+				"parentId": "5df7b9abef12bf7a2524385f",
+				"slotId": "hideout",
+				"location": {
+					"x": 4,
+					"y": 4,
+					"r": 0,
+					"isSearched": true
+				}
+			},
+			{
+				"_id": "5df7b9abef12bf7a252437d1",
+				"_tpl": "573718ba2459775a75491131",
+				"parentId": "5df7b9abef12bf7a252437d2",
+				"slotId": "cartridges",
+				"upd": {
+					"StackObjectsCount": 8
+				}
+			},
+			{
+				"_id": "5df7b9abef12bf7a252437d3",
+				"_tpl": "5448fee04bdc2dbc018b4567",
+				"parentId": "5df7b9abef12bf7a2524385f",
+				"slotId": "hideout",
+				"location": {
+					"x": 6,
+					"y": 8,
+					"r": "Horizontal",
+					"isSearched": true
+				},
+				"upd": {
+					"FoodDrink": {
+						"HpPercent": 60
+					}
+				}
+			},
+			{
+				"_id": "5df7b9abef12bf7a252437d4",
+				"_tpl": "5448fee04bdc2dbc018b4567",
+				"parentId": "5df7b9abef12bf7a2524385f",
+				"slotId": "hideout",
+				"location": {
+					"x": 4,
+					"y": 8,
+					"r": "Horizontal",
+					"isSearched": true
+				},
+				"upd": {
+					"FoodDrink": {
+						"HpPercent": 60
+					}
+				}
+			},
+			{
+				"_id": "5df7b9abef12bf7a252437d5",
+				"_tpl": "5448fee04bdc2dbc018b4567",
+				"parentId": "5df7b9abef12bf7a2524385f",
+				"slotId": "hideout",
+				"location": {
+					"x": 5,
+					"y": 6,
+					"r": "Horizontal",
+					"isSearched": true
+				},
+				"upd": {
+					"FoodDrink": {
+						"HpPercent": 60
+					}
+				}
+			},
+			{
+				"_id": "5df7b9abef12bf7a252437d6",
+				"_tpl": "544fb25a4bdc2dfb738b4567",
+				"parentId": "5df7b9abef12bf7a2524385f",
+				"slotId": "hideout",
+				"location": {
+					"x": 3,
+					"y": 11,
+					"r": "Horizontal",
+					"isSearched": true
+				}
+			},
+			{
+				"_id": "5df7b9abef12bf7a252437d7",
+				"_tpl": "544fb3364bdc2d34748b456a",
+				"parentId": "5df7b9abef12bf7a2524385f",
+				"slotId": "hideout",
+				"location": {
+					"x": 5,
+					"y": 11,
+					"r": "Horizontal",
+					"isSearched": true
+				}
+			},
+			{
+				"_id": "5df7b9abef12bf7a252437db",
+				"_tpl": "56d59948d2720bb7418b4582",
+				"parentId": "5df7b9abef12bf7a2524385f",
+				"slotId": "hideout",
+				"location": {
+					"x": 4,
+					"y": 1,
+					"r": "Horizontal",
+					"isSearched": true
+				}
+			},
+			{
+				"_id": "5df7b9abef12bf7a252437da",
+				"_tpl": "58864a4f2459770fcc257101",
+				"parentId": "5df7b9abef12bf7a252437db",
+				"slotId": "cartridges",
+				"upd": {
+					"StackObjectsCount": 15
+				}
+			},
+			{
+				"_id": "5df7b9abef12bf7a252437dc",
+				"_tpl": "57347d7224597744596b4e72",
+				"parentId": "5df7b9abef12bf7a2524385f",
+				"slotId": "hideout",
+				"location": {
+					"x": 7,
+					"y": 9,
+					"r": "Horizontal",
+					"isSearched": true
+				},
+				"upd": {
+					"FoodDrink": {
+						"HpPercent": 1
+					}
+				}
+			},
+			{
+				"_id": "5df7b9abef12bf7a252437dd",
+				"_tpl": "544fb25a4bdc2dfb738b4567",
+				"parentId": "5df7b9abef12bf7a2524385f",
+				"slotId": "hideout",
+				"location": {
+					"x": 3,
+					"y": 12,
+					"r": "Horizontal",
+					"isSearched": true
+				}
+			},
+			{
+				"_id": "5df7b9abef12bf7a252437df",
+				"_tpl": "544fb25a4bdc2dfb738b4567",
+				"parentId": "5df7b9abef12bf7a2524385f",
+				"slotId": "hideout",
+				"location": {
+					"x": 3,
+					"y": 10,
+					"r": "Horizontal",
+					"isSearched": true
+				}
+			},
+			{
+				"_id": "5df7b9abef12bf7a252437e0",
+				"_tpl": "544fb25a4bdc2dfb738b4567",
+				"parentId": "5df7b9abef12bf7a2524385f",
+				"slotId": "hideout",
+				"location": {
+					"x": 2,
+					"y": 11,
+					"r": "Horizontal",
+					"isSearched": true
+				}
+			},
+			{
+				"_id": "5df7b9abef12bf7a252437e1",
+				"_tpl": "57347d7224597744596b4e72",
+				"parentId": "5df7b9abef12bf7a2524385f",
+				"slotId": "hideout",
+				"location": {
+					"x": 8,
+					"y": 9,
+					"r": "Horizontal",
+					"isSearched": true
+				},
+				"upd": {
+					"FoodDrink": {
+						"HpPercent": 1
+					}
+				}
+			},
+			{
+				"_id": "5df7b9abef12bf7a252437e2",
+				"_tpl": "57347d7224597744596b4e72",
+				"parentId": "5df7b9abef12bf7a2524385f",
+				"slotId": "hideout",
+				"location": {
+					"x": 7,
+					"y": 6,
+					"r": "Horizontal",
+					"isSearched": true
+				},
+				"upd": {
+					"FoodDrink": {
+						"HpPercent": 1
+					}
+				}
+			},
+			{
+				"_id": "5df7b9abef12bf7a252437e4",
+				"_tpl": "57347d7224597744596b4e72",
+				"parentId": "5df7b9abef12bf7a2524385f",
+				"slotId": "hideout",
+				"location": {
+					"x": 7,
+					"y": 8,
+					"r": "Horizontal",
+					"isSearched": true
+				},
+				"upd": {
+					"FoodDrink": {
+						"HpPercent": 1
+					}
+				}
+			},
+			{
+				"_id": "5df7b9abef12bf7a252437e5",
+				"_tpl": "57347d7224597744596b4e72",
+				"parentId": "5df7b9abef12bf7a2524385f",
+				"slotId": "hideout",
+				"location": {
+					"x": 8,
+					"y": 7,
+					"r": "Horizontal",
+					"isSearched": true
+				},
+				"upd": {
+					"FoodDrink": {
+						"HpPercent": 1
+					}
+				}
+			},
+			{
+				"_id": "5df7b9abef12bf7a252437e6",
+				"_tpl": "57347d7224597744596b4e72",
+				"parentId": "5df7b9abef12bf7a2524385f",
+				"slotId": "hideout",
+				"location": {
+					"x": 8,
+					"y": 6,
+					"r": "Horizontal",
+					"isSearched": true
+				},
+				"upd": {
+					"FoodDrink": {
+						"HpPercent": 1
+					}
+				}
+			},
+			{
+				"_id": "5df7b9abef12bf7a252437e7",
+				"_tpl": "57347d7224597744596b4e72",
+				"parentId": "5df7b9abef12bf7a2524385f",
+				"slotId": "hideout",
+				"location": {
+					"x": 8,
+					"y": 8,
+					"r": "Horizontal",
+					"isSearched": true
+				},
+				"upd": {
+					"FoodDrink": {
+						"HpPercent": 1
+					}
+				}
+			},
+			{
+				"_id": "5df7b9abef12bf7a252437e8",
+				"_tpl": "544fb25a4bdc2dfb738b4567",
+				"parentId": "5df7b9abef12bf7a2524385f",
+				"slotId": "hideout",
+				"location": {
+					"x": 2,
+					"y": 10,
+					"r": "Horizontal",
+					"isSearched": true
+				}
+			},
+			{
+				"_id": "5df7b9abef12bf7a252437e9",
+				"_tpl": "5448fee04bdc2dbc018b4567",
+				"parentId": "5df7b9abef12bf7a2524385f",
+				"slotId": "hideout",
+				"location": {
+					"x": 6,
+					"y": 6,
+					"r": "Horizontal",
+					"isSearched": true
+				},
+				"upd": {
+					"FoodDrink": {
+						"HpPercent": 60
+					}
+				}
+			},
+			{
+				"_id": "5df7b9abef12bf7a252437ea",
+				"_tpl": "5449016a4bdc2d6f028b456f",
+				"parentId": "5df7b9abef12bf7a2524385f",
+				"slotId": "hideout",
+				"location": {
+					"x": 9,
+					"y": 0,
+					"r": "Horizontal",
+					"isSearched": true
+				},
+				"upd": {
+					"StackObjectsCount": 100000
+				}
+			},
+			{
+				"_id": "5df7b9abef12bf7a252437eb",
+				"_tpl": "5449016a4bdc2d6f028b456f",
+				"parentId": "5df7b9abef12bf7a2524385f",
+				"slotId": "hideout",
+				"location": {
+					"x": 9,
+					"y": 1,
+					"r": "Horizontal",
+					"isSearched": true
+				},
+				"upd": {
+					"StackObjectsCount": 100000
+				}
+			},
+			{
+				"_id": "5df7b9abef12bf7a252437ec",
+				"_tpl": "5449016a4bdc2d6f028b456f",
+				"parentId": "5df7b9abef12bf7a2524385f",
+				"slotId": "hideout",
+				"location": {
+					"x": 9,
+					"y": 2,
+					"r": "Horizontal",
+					"isSearched": true
+				},
+				"upd": {
+					"StackObjectsCount": 100000
+				}
+			},
+			{
+				"_id": "5df7b9abef12bf7a252437ef",
+				"_tpl": "573718ba2459775a75491131",
+				"parentId": "5df7b9abef12bf7a2524385f",
+				"slotId": "hideout",
+				"location": {
+					"x": 5,
+					"y": 4,
+					"r": 0,
+					"isSearched": true
+				},
+				"upd": {
+					"StackObjectsCount": 50
+				}
+			},
+			{
+				"_id": "5df7b9abef12bf7a252437f0",
+				"_tpl": "573718ba2459775a75491131",
+				"parentId": "5df7b9abef12bf7a2524385f",
+				"slotId": "hideout",
+				"location": {
+					"x": 5,
+					"y": 5,
+					"r": 0,
+					"isSearched": true
+				},
+				"upd": {
+					"StackObjectsCount": 50
+				}
+			},
+			{
+				"_id": "5df7b9abef12bf7a252437f1",
+				"_tpl": "573718ba2459775a75491131",
+				"parentId": "5df7b9abef12bf7a2524385f",
+				"slotId": "hideout",
+				"location": {
+					"x": 5,
+					"y": 3,
+					"r": "Horizontal",
+					"isSearched": true
+				},
+				"upd": {
+					"StackObjectsCount": 50
+				}
+			},
+			{
+				"_id": "5df7b9abef12bf7a252437f2",
+				"_tpl": "56d59d3ad2720bdb418b4577",
+				"parentId": "5df7b9abef12bf7a2524385f",
+				"slotId": "hideout",
+				"location": {
+					"x": 5,
+					"y": 1,
+					"r": "Horizontal",
+					"isSearched": true
+				},
+				"upd": {
+					"StackObjectsCount": 50
+				}
+			},
+			{
+				"_id": "5df7b9abef12bf7a252437f4",
+				"_tpl": "56d59948d2720bb7418b4582",
+				"parentId": "5df7b9abef12bf7a2524385f",
+				"slotId": "hideout",
+				"location": {
+					"x": 4,
+					"y": 0,
+					"r": "Horizontal",
+					"isSearched": true
+				}
+			},
+			{
+				"_id": "5df7b9abef12bf7a252437f3",
+				"_tpl": "56d59d3ad2720bdb418b4577",
+				"parentId": "5df7b9abef12bf7a252437f4",
+				"slotId": "cartridges",
+				"upd": {
+					"StackObjectsCount": 15
+				}
+			},
+			{
+				"_id": "5df7b9abef12bf7a252437f6",
+				"_tpl": "56d59948d2720bb7418b4582",
+				"parentId": "5df7b9abef12bf7a2524385f",
+				"slotId": "hideout",
+				"location": {
+					"x": 3,
+					"y": 0,
+					"r": "Horizontal",
+					"isSearched": true
+				}
+			},
+			{
+				"_id": "5df7b9abef12bf7a252437f5",
+				"_tpl": "56d59d3ad2720bdb418b4577",
+				"parentId": "5df7b9abef12bf7a252437f6",
+				"slotId": "cartridges",
+				"upd": {
+					"StackObjectsCount": 15
+				}
+			},
+			{
+				"_id": "5df7b9abef12bf7a252437f8",
+				"_tpl": "564ca99c4bdc2d16268b4589",
+				"parentId": "5df7b9abef12bf7a2524385f",
+				"slotId": "hideout",
+				"location": {
+					"x": 9,
+					"y": 8,
+					"r": "Horizontal",
+					"isSearched": true
+				}
+			},
+			{
+				"_id": "5df7b9abef12bf7a252437f7",
+				"_tpl": "56dfef82d2720bbd668b4567",
+				"parentId": "5df7b9abef12bf7a252437f8",
+				"slotId": "cartridges",
+				"upd": {
+					"StackObjectsCount": 30
+				}
+			},
+			{
+				"_id": "5df7b9abef12bf7a252437fa",
+				"_tpl": "564ca99c4bdc2d16268b4589",
+				"parentId": "5df7b9abef12bf7a2524385f",
+				"slotId": "hideout",
+				"location": {
+					"x": 9,
+					"y": 6,
+					"r": "Horizontal",
+					"isSearched": true
+				}
+			},
+			{
+				"_id": "5df7b9abef12bf7a252437f9",
+				"_tpl": "56dfef82d2720bbd668b4567",
+				"parentId": "5df7b9abef12bf7a252437fa",
+				"slotId": "cartridges",
+				"upd": {
+					"StackObjectsCount": 30
+				}
+			},
+			{
+				"_id": "5df7b9abef12bf7a25243821",
+				"_tpl": "56d59856d2720bd8418b456a",
+				"parentId": "5df7b9abef12bf7a2524385f",
+				"slotId": "hideout",
+				"location": {
+					"x": 0,
+					"y": 2,
+					"r": "Horizontal",
+					"isSearched": true
+				},
+				"upd": {
+					"Repairable": {
+						"MaxDurability": 100,
+						"Durability": 100
+					},
+					"FireMode": {
+						"FireMode": "single"
+					}
+				}
+			},
+			{
+				"_id": "5df7b9abef12bf7a2524381a",
+				"_tpl": "56d5a1f7d2720bb3418b456a",
+				"parentId": "5df7b9abef12bf7a25243821",
+				"slotId": "mod_barrel"
+			},
+			{
+				"_id": "5df7b9abef12bf7a2524381b",
+				"_tpl": "56d5a2bbd2720bb8418b456a",
+				"parentId": "5df7b9abef12bf7a25243821",
+				"slotId": "mod_pistol_grip"
+			},
+			{
+				"_id": "5df7b9abef12bf7a2524381e",
+				"_tpl": "56d5a407d2720bb3418b456b",
+				"parentId": "5df7b9abef12bf7a25243821",
+				"slotId": "mod_reciever"
+			},
+			{
+				"_id": "5df7b9abef12bf7a2524381c",
+				"_tpl": "56d5a77ed2720b90418b4568",
+				"parentId": "5df7b9abef12bf7a2524381e",
+				"slotId": "mod_sight_rear",
+				"upd": {
+					"Sight": {
+						"SelectedSightMode": 0
+					}
+				}
+			},
+			{
+				"_id": "5df7b9abef12bf7a2524381d",
+				"_tpl": "56d5a661d2720bd8418b456b",
+				"parentId": "5df7b9abef12bf7a2524381e",
+				"slotId": "mod_sight_front",
+				"upd": {
+					"Sight": {
+						"SelectedSightMode": 0
+					}
+				}
+			},
+			{
+				"_id": "5df7b9abef12bf7a25243820",
+				"_tpl": "56d59948d2720bb7418b4582",
+				"parentId": "5df7b9abef12bf7a2524385f",
+				"slotId": "hideout",
+				"location": {
+					"x": 3,
+					"y": 2,
+					"r": "Horizontal",
+					"isSearched": true
+				}
+			},
+			{
+				"_id": "5df7b9abef12bf7a2524381f",
+				"_tpl": "58864a4f2459770fcc257101",
+				"parentId": "5df7b9abef12bf7a25243820",
+				"slotId": "cartridges",
+				"upd": {
+					"StackObjectsCount": 15
+				}
+			},
+			{
+				"_id": "5df7b9abef12bf7a25243829",
+				"_tpl": "56d59856d2720bd8418b456a",
+				"parentId": "5df7b9abef12bf7a2524385f",
+				"slotId": "hideout",
+				"location": {
+					"x": 0,
+					"y": 1,
+					"r": "Horizontal",
+					"isSearched": true
+				},
+				"upd": {
+					"Repairable": {
+						"MaxDurability": 100,
+						"Durability": 100
+					},
+					"FireMode": {
+						"FireMode": "single"
+					}
+				}
+			},
+			{
+				"_id": "5df7b9abef12bf7a25243822",
+				"_tpl": "56d5a1f7d2720bb3418b456a",
+				"parentId": "5df7b9abef12bf7a25243829",
+				"slotId": "mod_barrel"
+			},
+			{
+				"_id": "5df7b9abef12bf7a25243823",
+				"_tpl": "56d5a2bbd2720bb8418b456a",
+				"parentId": "5df7b9abef12bf7a25243829",
+				"slotId": "mod_pistol_grip"
+			},
+			{
+				"_id": "5df7b9abef12bf7a25243826",
+				"_tpl": "56d5a407d2720bb3418b456b",
+				"parentId": "5df7b9abef12bf7a25243829",
+				"slotId": "mod_reciever"
+			},
+			{
+				"_id": "5df7b9abef12bf7a25243824",
+				"_tpl": "56d5a77ed2720b90418b4568",
+				"parentId": "5df7b9abef12bf7a25243826",
+				"slotId": "mod_sight_rear",
+				"upd": {
+					"Sight": {
+						"SelectedSightMode": 0
+					}
+				}
+			},
+			{
+				"_id": "5df7b9abef12bf7a25243825",
+				"_tpl": "56d5a661d2720bd8418b456b",
+				"parentId": "5df7b9abef12bf7a25243826",
+				"slotId": "mod_sight_front",
+				"upd": {
+					"Sight": {
+						"SelectedSightMode": 0
+					}
+				}
+			},
+			{
+				"_id": "5df7b9abef12bf7a25243828",
+				"_tpl": "56d59948d2720bb7418b4582",
+				"parentId": "5df7b9abef12bf7a2524385f",
+				"slotId": "hideout",
+				"location": {
+					"x": 2,
+					"y": 1,
+					"r": "Horizontal",
+					"isSearched": true
+				}
+			},
+			{
+				"_id": "5df7b9abef12bf7a25243827",
+				"_tpl": "56d59d3ad2720bdb418b4577",
+				"parentId": "5df7b9abef12bf7a25243828",
+				"slotId": "cartridges",
+				"upd": {
+					"StackObjectsCount": 15
+				}
+			},
+			{
+				"_id": "5df7b9abef12bf7a25243834",
+				"_tpl": "5448bd6b4bdc2dfc2f8b4569",
+				"parentId": "5df7b9abef12bf7a2524385f",
+				"slotId": "hideout",
+				"location": {
+					"x": 0,
+					"y": 5,
+					"r": 0,
+					"isSearched": true
+				},
+				"upd": {
+					"Repairable": {
+						"MaxDurability": 100,
+						"Durability": 100
+					},
+					"FireMode": {
+						"FireMode": "single"
+					}
+				}
+			},
+			{
+				"_id": "5df7b9abef12bf7a25243833",
+				"_tpl": "5448c12b4bdc2d02308b456f",
+				"parentId": "5df7b9abef12bf7a2524385f",
+				"slotId": "hideout",
+				"location": {
+					"x": 2,
+					"y": 5,
+					"r": "Horizontal",
+					"isSearched": true
+				}
+			},
+			{
+				"_id": "5df7b9abef12bf7a25243832",
+				"_tpl": "573718ba2459775a75491131",
+				"parentId": "5df7b9abef12bf7a25243833",
+				"slotId": "cartridges",
+				"upd": {
+					"StackObjectsCount": 8
+				}
+			},
+			{
+				"_id": "5df7b9abef12bf7a25243837",
+				"_tpl": "5448bd6b4bdc2dfc2f8b4569",
+				"parentId": "5df7b9abef12bf7a2524385f",
+				"slotId": "hideout",
+				"location": {
+					"x": 0,
+					"y": 3,
+					"r": "Horizontal",
+					"isSearched": true
+				},
+				"upd": {
+					"Repairable": {
+						"MaxDurability": 100,
+						"Durability": 100
+					},
+					"FireMode": {
+						"FireMode": "single"
+					}
+				}
+			},
+			{
+				"_id": "5df7b9abef12bf7a25243836",
+				"_tpl": "5448c12b4bdc2d02308b456f",
+				"parentId": "5df7b9abef12bf7a2524385f",
+				"slotId": "hideout",
+				"location": {
+					"x": 2,
+					"y": 3,
+					"r": "Horizontal",
+					"isSearched": true
+				}
+			},
+			{
+				"_id": "5df7b9abef12bf7a25243835",
+				"_tpl": "573718ba2459775a75491131",
+				"parentId": "5df7b9abef12bf7a25243836",
+				"slotId": "cartridges",
+				"upd": {
+					"StackObjectsCount": 8
+				}
+			},
+			{
+				"_id": "5df7b9abef12bf7a2524383a",
+				"_tpl": "5448bd6b4bdc2dfc2f8b4569",
+				"parentId": "5df7b9abef12bf7a2524385f",
+				"slotId": "hideout",
+				"location": {
+					"x": 0,
+					"y": 4,
+					"r": 0,
+					"isSearched": true
+				},
+				"upd": {
+					"Repairable": {
+						"MaxDurability": 100,
+						"Durability": 100
+					},
+					"FireMode": {
+						"FireMode": "single"
+					}
+				}
+			},
+			{
+				"_id": "5df7b9abef12bf7a25243839",
+				"_tpl": "5448c12b4bdc2d02308b456f",
+				"parentId": "5df7b9abef12bf7a2524385f",
+				"slotId": "hideout",
+				"location": {
+					"x": 2,
+					"y": 4,
+					"r": "Horizontal",
+					"isSearched": true
+				}
+			},
+			{
+				"_id": "5df7b9abef12bf7a25243838",
+				"_tpl": "573718ba2459775a75491131",
+				"parentId": "5df7b9abef12bf7a25243839",
+				"slotId": "cartridges",
+				"upd": {
+					"StackObjectsCount": 8
+				}
+			},
+			{
+				"_id": "5df7b9abef12bf7a25243842",
+				"_tpl": "56d59856d2720bd8418b456a",
+				"parentId": "5df7b9abef12bf7a2524385f",
+				"slotId": "hideout",
+				"location": {
+					"x": 0,
+					"y": 0,
+					"r": "Horizontal",
+					"isSearched": true
+				},
+				"upd": {
+					"Repairable": {
+						"MaxDurability": 100,
+						"Durability": 100
+					},
+					"FireMode": {
+						"FireMode": "single"
+					}
+				}
+			},
+			{
+				"_id": "5df7b9abef12bf7a2524383b",
+				"_tpl": "56d5a1f7d2720bb3418b456a",
+				"parentId": "5df7b9abef12bf7a25243842",
+				"slotId": "mod_barrel"
+			},
+			{
+				"_id": "5df7b9abef12bf7a2524383c",
+				"_tpl": "56d5a2bbd2720bb8418b456a",
+				"parentId": "5df7b9abef12bf7a25243842",
+				"slotId": "mod_pistol_grip"
+			},
+			{
+				"_id": "5df7b9abef12bf7a2524383f",
+				"_tpl": "56d5a407d2720bb3418b456b",
+				"parentId": "5df7b9abef12bf7a25243842",
+				"slotId": "mod_reciever"
+			},
+			{
+				"_id": "5df7b9abef12bf7a2524383d",
+				"_tpl": "56d5a77ed2720b90418b4568",
+				"parentId": "5df7b9abef12bf7a2524383f",
+				"slotId": "mod_sight_rear",
+				"upd": {
+					"Sight": {
+						"SelectedSightMode": 0
+					}
+				}
+			},
+			{
+				"_id": "5df7b9abef12bf7a2524383e",
+				"_tpl": "56d5a661d2720bd8418b456b",
+				"parentId": "5df7b9abef12bf7a2524383f",
+				"slotId": "mod_sight_front",
+				"upd": {
+					"Sight": {
+						"SelectedSightMode": 0
+					}
+				}
+			},
+			{
+				"_id": "5df7b9abef12bf7a25243841",
+				"_tpl": "56d59948d2720bb7418b4582",
+				"parentId": "5df7b9abef12bf7a2524385f",
+				"slotId": "hideout",
+				"location": {
+					"x": 2,
+					"y": 0,
+					"r": "Horizontal",
+					"isSearched": true
+				}
+			},
+			{
+				"_id": "5df7b9abef12bf7a25243840",
+				"_tpl": "56d59d3ad2720bdb418b4577",
+				"parentId": "5df7b9abef12bf7a25243841",
+				"slotId": "cartridges",
+				"upd": {
+					"StackObjectsCount": 15
+				}
+			},
+			{
+				"_id": "5df7b9abef12bf7a25243861",
+				"_tpl": "5963866b86f7747bfa1c4462"
+			},
+			{
+				"_id": "5df7b9abef12bf7a25243860",
+				"_tpl": "5963866286f7747bf429b572"
+			},
+			{
+				"_id": "I11271746294698609749Wcb",
+				"_tpl": "54491bb74bdc2d09088b4567",
+				"parentId": "5df7b9abef12bf7a252437a1",
+				"slotId": "Scabbard",
+				"upd": {
+					"StackObjectsCount": 1
+				}
+			},
+			{
+				"_id": "I11271748179723580490qru",
+				"_tpl": "57dc2fa62459775949412633",
+				"parentId": "5df7b9abef12bf7a2524385f",
+				"slotId": "hideout",
+				"location": {
+					"x": 6,
+					"y": 4,
+					"r": "Horizontal",
+					"isSearched": true
+				},
+				"upd": {
+					"StackObjectsCount": 1
+				}
+			},
+			{
+				"_id": "I11271748175489081747AMO",
+				"_tpl": "57e3dba62459770f0c32322b",
+				"parentId": "I11271748179723580490qru",
+				"slotId": "mod_pistol_grip",
+				"upd": {
+					"StackObjectsCount": 1
+				}
+			},
+			{
+				"_id": "I11271748177970966582XAR",
+				"_tpl": "57dc347d245977596754e7a1",
+				"parentId": "I11271748179723580490qru",
+				"slotId": "mod_stock",
+				"upd": {
+					"StackObjectsCount": 1
+				}
+			},
+			{
+				"_id": "I1127174817881060815195h",
+				"_tpl": "57dc324a24597759501edc20",
+				"parentId": "I11271748179723580490qru",
+				"slotId": "mod_muzzle",
+				"upd": {
+					"StackObjectsCount": 1
+				}
+			},
+			{
+				"_id": "I11271748177544217560Etv",
+				"_tpl": "57dc334d245977597164366f",
+				"parentId": "I11271748179723580490qru",
+				"slotId": "mod_reciever",
+				"upd": {
+					"StackObjectsCount": 1
+				}
+			},
+			{
+				"_id": "I11271748179221361791g60",
+				"_tpl": "59d36a0086f7747e673f3946",
+				"parentId": "I11271748179723580490qru",
+				"slotId": "mod_gas_block",
+				"upd": {
+					"StackObjectsCount": 1
+				}
+			},
+			{
+				"_id": "I112717481766376548995gs",
+				"_tpl": "57dc32dc245977596d4ef3d3",
+				"parentId": "I11271748179221361791g60",
+				"slotId": "mod_handguard",
+				"upd": {
+					"StackObjectsCount": 1
+				}
+			},
+			{
+				"_id": "I1127175011205001139HF2z",
+				"_tpl": "544a5caa4bdc2d1a388b4568",
+				"parentId": "5df7b9abef12bf7a252437a1",
+				"slotId": "TacticalVest",
+				"upd": {
+					"StackObjectsCount": 1
+				}
+			},
+			{
+				"_id": "I1127175013742450733uNEi",
+				"_tpl": "544a5caa4bdc2d1a388b4568",
+				"parentId": "5df7b9abef12bf7a2524385f",
+				"slotId": "hideout",
+				"location": {
+					"x": 6,
+					"y": 0,
+					"r": "Horizontal",
+					"isSearched": true
+				},
+				"upd": {
+					"StackObjectsCount": 1
+				}
+			},
+			{
+				"_id": "I11271752131304175370VWL",
+				"_tpl": "544a5cde4bdc2d39388b456b",
+				"parentId": "5df7b9abef12bf7a252437a1",
+				"slotId": "Backpack",
+				"upd": {
+					"StackObjectsCount": 1
+				}
+			},
+			{
+				"_id": "I11271752133988138176PH5",
+				"_tpl": "544a5cde4bdc2d39388b456b",
+				"parentId": "5df7b9abef12bf7a2524385f",
+				"slotId": "hideout",
+				"location": {
+					"x": 0,
+					"y": 6,
+					"r": "Horizontal",
+					"isSearched": true
+				},
+				"upd": {
+					"StackObjectsCount": 1
+				}
+			},
+			{
+				"_id": "I1127184421614847607IirU",
+				"_tpl": "544a11ac4bdc2d470e8b456a",
+				"parentId": "5df7b9abef12bf7a252437a1",
+				"slotId": "SecuredContainer",
+				"upd": {
+					"StackObjectsCount": 1
+				}
+			}
+		],
+		"equipment": "5df7b9abef12bf7a252437a1",
+		"stash": "5df7b9abef12bf7a2524385f",
+		"questRaidItems": "5df7b9abef12bf7a25243860",
+		"questStashItems": "5df7b9abef12bf7a25243861",
+		"fastPanel": {}
+	},
+	"Skills": {
+		"Common": [
+			{
+				"Id": "BotReload",
+				"Progress": 5100,
+				"PointsEarnedDuringSession": 0,
+				"LastAccess": 0
+			},
+			{
+				"Id": "Endurance",
+				"Progress": 5100,
+				"PointsEarnedDuringSession": 0,
+				"LastAccess": 0
+			},
+			{
+				"Id": "Strength",
+				"Progress": 5100,
+				"PointsEarnedDuringSession": 0,
+				"LastAccess": 0
+			},
+			{
+				"Id": "Vitality",
+				"Progress": 5100,
+				"PointsEarnedDuringSession": 0,
+				"LastAccess": 0
+			},
+			{
+				"Id": "Health",
+				"Progress": 5100,
+				"PointsEarnedDuringSession": 0,
+				"LastAccess": 0
+			},
+			{
+				"Id": "StressResistance",
+				"Progress": 5100,
+				"PointsEarnedDuringSession": 0,
+				"LastAccess": 0
+			},
+			{
+				"Id": "Metabolism",
+				"Progress": 5100,
+				"PointsEarnedDuringSession": 0,
+				"LastAccess": 0
+			},
+			{
+				"Id": "Immunity",
+				"Progress": 5100,
+				"PointsEarnedDuringSession": 0,
+				"LastAccess": 0
+			},
+			{
+				"Id": "Perception",
+				"Progress": 5100,
+				"PointsEarnedDuringSession": 0,
+				"LastAccess": 0
+			},
+			{
+				"Id": "Intellect",
+				"Progress": 5100,
+				"PointsEarnedDuringSession": 0,
+				"LastAccess": 0
+			},
+			{
+				"Id": "Attention",
+				"Progress": 5100,
+				"PointsEarnedDuringSession": 0,
+				"LastAccess": 0
+			},
+			{
+				"Id": "Charisma",
+				"Progress": 5100,
+				"PointsEarnedDuringSession": 0,
+				"LastAccess": 0
+			},
+			{
+				"Id": "Memory",
+				"Progress": 5100,
+				"PointsEarnedDuringSession": 0,
+				"LastAccess": 0
+			},
+			{
+				"Id": "Pistol",
+				"Progress": 5100,
+				"PointsEarnedDuringSession": 0,
+				"LastAccess": 0
+			},
+			{
+				"Id": "Revolver",
+				"Progress": 5100,
+				"PointsEarnedDuringSession": 0,
+				"LastAccess": 0
+			},
+			{
+				"Id": "SMG",
+				"Progress": 5100,
+				"PointsEarnedDuringSession": 0,
+				"LastAccess": 0
+			},
+			{
+				"Id": "Assault",
+				"Progress": 5100,
+				"PointsEarnedDuringSession": 0,
+				"LastAccess": 0
+			},
+			{
+				"Id": "Shotgun",
+				"Progress": 5100,
+				"PointsEarnedDuringSession": 0,
+				"LastAccess": 0
+			},
+			{
+				"Id": "Sniper",
+				"Progress": 5100,
+				"PointsEarnedDuringSession": 0,
+				"LastAccess": 0
+			},
+			{
+				"Id": "LMG",
+				"Progress": 5100,
+				"PointsEarnedDuringSession": 0,
+				"LastAccess": 0
+			},
+			{
+				"Id": "HMG",
+				"Progress": 5100,
+				"PointsEarnedDuringSession": 0,
+				"LastAccess": 0
+			},
+			{
+				"Id": "Launcher",
+				"Progress": 5100,
+				"PointsEarnedDuringSession": 0,
+				"LastAccess": 0
+			},
+			{
+				"Id": "AttachedLauncher",
+				"Progress": 5100,
+				"PointsEarnedDuringSession": 0,
+				"LastAccess": 0
+			},
+			{
+				"Id": "Throwing",
+				"Progress": 5100,
+				"PointsEarnedDuringSession": 0,
+				"LastAccess": 0
+			},
+			{
+				"Id": "Melee",
+				"Progress": 5100,
+				"PointsEarnedDuringSession": 0,
+				"LastAccess": 0
+			},
+			{
+				"Id": "DMR",
+				"Progress": 5100,
+				"PointsEarnedDuringSession": 0,
+				"LastAccess": 0
+			},
+			{
+				"Id": "RecoilControl",
+				"Progress": 5100,
+				"PointsEarnedDuringSession": 0,
+				"LastAccess": 0
+			},
+			{
+				"Id": "CovertMovement",
+				"Progress": 5100,
+				"PointsEarnedDuringSession": 0,
+				"LastAccess": 0
+			},
+			{
+				"Id": "FieldMedicine",
+				"Progress": 5100,
+				"PointsEarnedDuringSession": 0,
+				"LastAccess": 0
+			},
+			{
+				"Id": "Search",
+				"Progress": 5100,
+				"PointsEarnedDuringSession": 0,
+				"LastAccess": 0
+			},
+			{
+				"Id": "MagDrills",
+				"Progress": 5100,
+				"PointsEarnedDuringSession": 0,
+				"LastAccess": 0
+			},
+			{
+				"Id": "Sniping",
+				"Progress": 5100,
+				"PointsEarnedDuringSession": 0,
+				"LastAccess": 0
+			},
+			{
+				"Id": "ProneMovement",
+				"Progress": 5100,
+				"PointsEarnedDuringSession": 0,
+				"LastAccess": 0
+			},
+			{
+				"Id": "FirstAid",
+				"Progress": 5100,
+				"PointsEarnedDuringSession": 0,
+				"LastAccess": 0
+			},
+			{
+				"Id": "LightVests",
+				"Progress": 5100,
+				"PointsEarnedDuringSession": 0,
+				"LastAccess": 0
+			},
+			{
+				"Id": "HeavyVests",
+				"Progress": 5100,
+				"PointsEarnedDuringSession": 0,
+				"LastAccess": 0
+			},
+			{
+				"Id": "WeaponModding",
+				"Progress": 5100,
+				"PointsEarnedDuringSession": 0,
+				"LastAccess": 0
+			},
+			{
+				"Id": "AdvancedModding",
+				"Progress": 5100,
+				"PointsEarnedDuringSession": 0,
+				"LastAccess": 0
+			},
+			{
+				"Id": "NightOps",
+				"Progress": 5100,
+				"PointsEarnedDuringSession": 0,
+				"LastAccess": 0
+			},
+			{
+				"Id": "SilentOps",
+				"Progress": 5100,
+				"PointsEarnedDuringSession": 0,
+				"LastAccess": 0
+			},
+			{
+				"Id": "Lockpicking",
+				"Progress": 5100,
+				"PointsEarnedDuringSession": 0,
+				"LastAccess": 0
+			},
+			{
+				"Id": "WeaponTreatment",
+				"Progress": 5100,
+				"PointsEarnedDuringSession": 0,
+				"LastAccess": 0
+			},
+			{
+				"Id": "Freetrading",
+				"Progress": 5100,
+				"PointsEarnedDuringSession": 0,
+				"LastAccess": 0
+			},
+			{
+				"Id": "Auctions",
+				"Progress": 5100,
+				"PointsEarnedDuringSession": 0,
+				"LastAccess": 0
+			},
+			{
+				"Id": "Cleanoperations",
+				"Progress": 5100,
+				"PointsEarnedDuringSession": 0,
+				"LastAccess": 0
+			},
+			{
+				"Id": "Barter",
+				"Progress": 5100,
+				"PointsEarnedDuringSession": 0,
+				"LastAccess": 0
+			},
+			{
+				"Id": "Shadowconnections",
+				"Progress": 5100,
+				"PointsEarnedDuringSession": 0,
+				"LastAccess": 0
+			},
+			{
+				"Id": "Taskperformance",
+				"Progress": 5100,
+				"PointsEarnedDuringSession": 0,
+				"LastAccess": 0
+			}
+		],
+		"Mastering": [
+			{
+				"Id": "MP5",
+				"Progress": 5100
+			},
+			{
+				"Id": "AKSU",
+				"Progress": 5100
+			},
+			{
+				"Id": "MPX",
+				"Progress": 5100
+			},
+			{
+				"Id": "PB",
+				"Progress": 5100
+			},
+			{
+				"Id": "PM",
+				"Progress": 5100
+			},
+			{
+				"Id": "TT",
+				"Progress": 5100
+			},
+			{
+				"Id": "P226",
+				"Progress": 5100
+			},
+			{
+				"Id": "VSS",
+				"Progress": 5100
+			},
+			{
+				"Id": "AKM",
+				"Progress": 5100
+			},
+			{
+				"Id": "AK74",
+				"Progress": 5100
+			},
+			{
+				"Id": "M4",
+				"Progress": 5100
+			},
+			{
+				"Id": "MDR",
+				"Progress": 5100
+			},
+			{
+				"Id": "ASH12",
+				"Progress": 5100
+			},
+			{
+				"Id": "SA-58",
+				"Progress": 5100
+			},
+			{
+				"Id": "SKS",
+				"Progress": 5100
+			},
+			{
+				"Id": "PP-91",
+				"Progress": 5100
+			},
+			{
+				"Id": "VPO101",
+				"Progress": 5100
+			},
+			{
+				"Id": "P90",
+				"Progress": 5100
+			},
+			{
+				"Id": "mp7",
+				"Progress": 5100
+			},
+			{
+				"Id": "PP19",
+				"Progress": 5100
+			},
+			{
+				"Id": "PP-9",
+				"Progress": 5100
+			},
+			{
+				"Id": "SAIGA",
+				"Progress": 5100
+			},
+			{
+				"Id": "R11SRASS",
+				"Progress": 5100
+			},
+			{
+				"Id": "mosin",
+				"Progress": 5100
+			},
+			{
+				"Id": "M1A",
+				"Progress": 5100
+			},
+			{
+				"Id": "SVD",
+				"Progress": 5100
+			},
+			{
+				"Id": "APS",
+				"Progress": 5100
+			},
+			{
+				"Id": "sr1mp",
+				"Progress": 5100
+			},
+			{
+				"Id": "m9",
+				"Progress": 5100
+			},
+			{
+				"Id": "57",
+				"Progress": 5100
+			},
+			{
+				"Id": "MP443",
+				"Progress": 5100
+			},
+			{
+				"Id": "GLOCK17",
+				"Progress": 5100
+			},
+			{
+				"Id": "SV98",
+				"Progress": 5100
+			},
+			{
+				"Id": "r700",
+				"Progress": 5100
+			},
+			{
+				"Id": "DVL",
+				"Progress": 5100
+			},
+			{
+				"Id": "TOZ106",
+				"Progress": 5100
+			},
+			{
+				"Id": "MP133",
+				"Progress": 5100
+			},
+			{
+				"Id": "M870",
+				"Progress": 5100
+			},
+			{
+				"Id": "MP153",
+				"Progress": 5100
+			},
+			{
+				"Id": "MP9",
+				"Progress": 5100
+			},
+			{
+				"Id": "VPO_215",
+				"Progress": 5100
+			},
+			{
+				"Id": "T5000",
+				"Progress": 5100
+			},
+			{
+				"Id": "SR25",
+				"Progress": 5100
+			}
+		],
+		"Bonuses": null,
+		"Points": 0
+	},
+	"Stats": {
+		"SessionCounters": null,
+		"OverallCounters": {
+			"Items": []
+		},
+		"SessionExperienceMult": 0,
+		"ExperienceBonusMult": 0,
+		"TotalSessionExperience": 0,
+		"LastSessionDate": 0,
+		"Aggressor": null,
+		"DroppedItems": [],
+		"FoundInRaidItems": [],
+		"Victims": [],
+		"CarriedQuestItems": [],
+		"TotalInGameTime": 0,
+		"SurvivorClass": "Unknown"
+	},
+	"Encyclopedia": {},
+	"ConditionCounters": {
+		"Counters": []
+	},
+	"BackendCounters": {},
+	"InsuredItems": [],
+	"Hideout": {
+		"Production": {},
+		"Areas": [
+			{
+				"type": 3,
+				"level": 4,
+				"active": true,
+				"passiveBonusesEnabled": true,
+				"completeTime": 0,
+				"constructing": false,
+				"slots": []
+			},
+			{
+				"type": 0,
+				"level": 3,
+				"active": true,
+				"passiveBonusesEnabled": true,
+				"completeTime": 0,
+				"constructing": false,
+				"slots": []
+			},
+			{
+				"type": 1,
+				"level": 3,
+				"active": true,
+				"passiveBonusesEnabled": true,
+				"completeTime": 0,
+				"constructing": false,
+				"slots": []
+			},
+			{
+				"type": 2,
+				"level": 3,
+				"active": true,
+				"passiveBonusesEnabled": true,
+				"completeTime": 0,
+				"constructing": false,
+				"slots": []
+			},
+			{
+				"type": 4,
+				"level": 3,
+				"active": true,
+				"passiveBonusesEnabled": true,
+				"completeTime": 0,
+				"constructing": false,
+				"slots": []
+			},
+			{
+				"type": 5,
+				"level": 3,
+				"active": true,
+				"passiveBonusesEnabled": true,
+				"completeTime": 0,
+				"constructing": false,
+				"slots": []
+			},
+			{
+				"type": 6,
+				"level": 3,
+				"active": true,
+				"passiveBonusesEnabled": true,
+				"completeTime": 0,
+				"constructing": false,
+				"slots": []
+			},
+			{
+				"type": 7,
+				"level": 3,
+				"active": true,
+				"passiveBonusesEnabled": true,
+				"completeTime": 0,
+				"constructing": false,
+				"slots": []
+			},
+			{
+				"type": 8,
+				"level": 3,
+				"active": true,
+				"passiveBonusesEnabled": true,
+				"completeTime": 0,
+				"constructing": false,
+				"slots": []
+			},
+			{
+				"type": 9,
+				"level": 3,
+				"active": true,
+				"passiveBonusesEnabled": true,
+				"completeTime": 0,
+				"constructing": false,
+				"slots": []
+			},
+			{
+				"type": 10,
+				"level": 3,
+				"active": true,
+				"passiveBonusesEnabled": true,
+				"completeTime": 0,
+				"constructing": false,
+				"slots": []
+			},
+			{
+				"type": 11,
+				"level": 3,
+				"active": true,
+				"passiveBonusesEnabled": true,
+				"completeTime": 0,
+				"constructing": false,
+				"slots": []
+			},
+			{
+				"type": 12,
+				"level": 1,
+				"active": true,
+				"passiveBonusesEnabled": true,
+				"completeTime": 0,
+				"constructing": false,
+				"slots": []
+			},
+			{
+				"type": 13,
+				"level": 1,
+				"active": true,
+				"passiveBonusesEnabled": true,
+				"completeTime": 0,
+				"constructing": false,
+				"slots": []
+			},
+			{
+				"type": 14,
+				"level": 1,
+				"active": true,
+				"passiveBonusesEnabled": true,
+				"completeTime": 0,
+				"constructing": false,
+				"slots": []
+			},
+			{
+				"type": 15,
+				"level": 3,
+				"active": true,
+				"passiveBonusesEnabled": true,
+				"completeTime": 0,
+				"constructing": false,
+				"slots": []
+			},
+			{
+				"type": 16,
+				"level": 1,
+				"active": true,
+				"passiveBonusesEnabled": true,
+				"completeTime": 0,
+				"constructing": false,
+				"slots": []
+			},
+			{
+				"type": 17,
+				"level": 1,
+				"active": true,
+				"passiveBonusesEnabled": false,
+				"completeTime": 0,
+				"constructing": false,
+				"slots": []
+			},
+			{
+				"type": 18,
+				"level": 1,
+				"active": true,
+				"passiveBonusesEnabled": true,
+				"completeTime": 0,
+				"constructing": false,
+				"slots": []
+			},
+			{
+				"type": 19,
+				"level": 1,
+				"active": true,
+				"passiveBonusesEnabled": true,
+				"completeTime": 0,
+				"constructing": false,
+				"slots": []
+			},
+			{
+				"type": 20,
+				"level": 3,
+				"active": true,
+				"passiveBonusesEnabled": true,
+				"completeTime": 0,
+				"constructing": false,
+				"slots": []
+			},
+			{
+				"type": 21,
+				"level": 1,
+				"active": true,
+				"passiveBonusesEnabled": true,
+				"completeTime": 0,
+				"constructing": false,
+				"slots": []
+			}
+		]
+	},
+	"Bonuses": [
+		{
+			"type": "StashSize",
+			"templateId": "566abbc34bdc2d92178b4576"
+		},
+		{
+			"type": "StashSize",
+			"templateId": "5811ce572459770cba1a34ea"
+		},
+		{
+			"type": "StashSize",
+			"templateId": "5811ce662459770f6f490f32"
+		},
+		{
+			"type": "StashSize",
+			"templateId": "5811ce772459770e9e5f9532"
+		}
+	],
+	"Notes": {
+		"Notes": [
+			{
+				"Time": 1578960510,
+				"Text": "My message to you, part 1\n\nDear player,\n\nMy name is Merijn Hendriks, also known as Senko-san#4108 on discord and InNoHurryToCode on github. I am the main contributer to the EmuTarkov project, and I'm here to share my story. It will be a long story, but I hope you'll read all notes.\n\nAround the early days of 2016, I discovered the Exisitance of Escape From Tarkov. PvE progression, highly tactical shooter, we all know the promises. I got hyped and worked hard every day until I could afford the Edge Of Darkness edition in the summer of 2017 which I shared with a friend of mine. Battlestate games sadly removed offline progressioon in an earlier patch, which sucks for me as I am bad at videogames in general hahaha.\n\nI completed my game developer study as I worked at a game development company, and suddenly had a vacation with nothing to do. I wanted to play Escape From Tarkov, but the servers were offline. This made me realize I couldn't play this game if the game was taken offline.\n\nMore in part 2!"
+			},
+			{
+				"Time": 1578960900,
+				"Text": "My message to you, part 2\n\nWith this realization, I was looking if someone else already made a private server or the likes, and stumbled on Polivilas work a the server emulator dubbed EmuTarkov.\n\nWhen I tried his work, it was lacking many things. A quick code review showed why; the code was very lacking in quality, as well as missing many features. While I lacked the knowledge of the programming language it was written in, I started to mess around and see what would happen with every change.\n\nMost programmers learn by changing someone's work and observing what these changes do. I've been programming since my 12th (I am 21 now), I never resorted to tutorials and the likes. Only books for reference. You don't learn until you practice. Or as Yoda says: \"Do or Don't, there is no try\".\n\nMy initial changes were messy, but I slowly started to understand the inner workings of his emulator. I noticed the shortcomings on the public forums discussing the emulator, and decided to make a contribution to the project."
+			},
+			{
+				"Time": 1578961280,
+				"Text": "My message to you, part 3\n\nMy first change was a simple one: I disabled online matchmaking to prevent users from trying to find an online game (as the emulator does everything offline). This helped a lot as most users reported not being able to find changes since they don't read instructions hahaha.\n\nNext up was simplifying the emulator setup process, because it was too complex. After that, A lot of simplification and restructuring of the code, so it would actually be viable to work with it. In the meantime, BALIST0N (another developer on the project from France), did his amazing bots system rework.\n\nI converged with him and Polivilas over the changes submission page, which was an awful way to do it but it was very fun! Imagine having to write emails to people you don't know except that they are just as passionate about the thing you're working on as you are.\n\nIt's a first for me that I could actually talk with people who are just as passionate as me and that is a very humbling experience."
+			},
+			{
+				"Time": 1578961660,
+				"Text": "My message to you, part 4\n\nWhen I finished up the first release made by me (0.1.0), it received positive feedback as the server was now actually usuable for the normal Joe.\n\nNo matter how many times I struggled with the code and how much I feel like giving up, the heartwarming messages of people who are grateful for your work gives you an extra push to continue regardless of the work it is.\n\nI started my time in university, and it sucked; It was like being a translator who has fun translating complex works, yet you're forced to translate books for children. It is very demotivating, and the teachers didn't take kindly on the fact that my knowledge was more specialized than theirs to put it nicely.\n\nThe second semester was hell, but I pushed trough it as I could take my mind off by working on the emulator. The less homework I made, the more progress was made on EmuTarkov hahaha. I also learned in this semester that a costumer service job is not going to suit me; People tend to forget to read manuals... *sigh*"
+			},
+			{
+				"Time": 1578962300,
+				"Text": "My message to you, part 5\n\nThe more work was done, the more stable the emulator got. I became aware that TheMaoci was also working on his own emulator and he had some nice features in it. However, it was not as stable because it was based on the version before I worked on the project, so I offered him if I could port over his features. This let him to invite me instead to a team of developers: The JustEmuTarkov project.\n\nI can remember the day well; I was checking as usual for any issues that were submitted and there was TheMaoci's issue, with an invitation to his discord for the team. When I and BALIST0N joined, we were all very excited on the project. The atmosphere was kind and inspirational, as well as very motivating! JERUZKA, MR RUSS, Tactical Creature, MacMillianec and TheMaoci were there, and all are wonderful people.\n\nWhile Polivilas wasn't too happy about our new group, we stopped working on his version and we used mine (release 0.4.1) as a base. We ported over maoci's features and went to work."
+			},
+			{
+				"Time": 1578963000,
+				"Text": "My message to you, part 6\n\nEven trough my days at the university started to make me more and more depressed, The JustEmuTarkov project gave me some of the best times of my life.\n\nThe excitment of a new release, the hard blood, sweat and tears, and the feeling of seeing all the hard work pay off is something I cannot dscribe in words. I... I absolutely love my time working on this as much as working together with everyone else. I love every single member on the team for what they've done on the project and the willingness to share this passion with me, the support they gave me when I needed it the most and the time we spent together.\n\nI can remember showing in full excitement to the friend I shared my account with the work we all had accomplished together, and his enthusiasm when he had.\n\nHowever, every beginning has an end. After a long day on university and the long tired arguments I had with all the teachers, I broke down and cried. I couldn't do this any longer. \"What was I doing there in the first place?\""
+			},
+			{
+				"Time": 1578963460,
+				"Text": "My message to you, part 7\n\nMy health worsened, days became longer and the reaction of my medical conditions became worse. With no time left to work on EmuTarkov or any other distraction due to the work I was required to do in university, I had no way out. I kept trying to hold on but it was useless.\n\nOne day, I had class. The teacher was rambling bullshit again which was proven by me with facts to be inaccurate, and the usual pattern repeats. In my mind, there was only one thought.\n\n\"I've had enough\".\n\nI walked out of the classroom with the teacher screaming at me, and only returned to the university again for the formalities that come with dropping out of university.\n\nThe first days were rough. Due to my medical condition my body feels like being incinerated from the inside while a thousand needles are piercing trough my body whenever I stress, have a sudden change in temperature or drink hot or cold drinks. I was literally working myself sick.\n\nIf you are in the same situation, I beg you to stop and rest."
+			},
+			{
+				"Time": 1578963840,
+				"Text": "My message to you, part 8\n\nAfter a week or 3-4, my condition improved and started to look for work as I returned back to the EmuTarkov project after being missing in action for 4 months.\n\nGetting a job heere in the Netherlands can be either a fairly easy or tough experience like anywhere else. It took me about half-a-year to get myself a new job by using the old connections I had from my previous workplaces.\n\nDuring the times I saught for work, I spend pretty much all my day working on EmuTarkov, catching up with all the anime and manga updates I missed and meeting up with friends again.\n\nI discovered when I returned on the project that version 0.7.5 had already been released by TheMaoci. He rewrote the whole server, and now the code was a fucking mess (no offence to you TheMaoci, you're the best feature developer on the team but your code quality is shit). So here we were rewriting the whole server...\n\n...again hahahahaha."
+			},
+			{
+				"Time": 1578964220,
+				"Text": "My message to you, part 9\n\nBesides the messy code, a new discord was created: JustEmuTarkov Official. I had no idea what to do with it at first, so I left it be for what it was. In the meantime, we were working hard to shape up an 0.7.6 release.\n\nThen, BattleState Games decided to release version 0.12 of Escape From Tarkov. The update was crazy; it had so much more new content that we HAD to have it! Only problem being that they completely rewrote the important parts we used to make the emulator work.\n\nOr in short: We were fucked. Massively.\n\nIt was tough. We really wanted to bring the latest version to the members of the discord, but we simply couldn't because of their changes. It was demotivating to fail over and over again, but we kept trying to make the impossible possible.\n\nDuring this time, I started to become active on the discord and took suggestions of the members to develop features they requested for 0.7.6. \"0.12 when\" became a meme, and the community was amazingly supportive."
+			},
+			{
+				"Time": 1578964610,
+				"Text": "My Message to you, part 10\n\nThe more I hung around in the discord, the more I started to love the community. We may are outcasts from BattleState Games version of the game, but everyone in the discord is polite, warming, accepting and open minded with some having a good sense of humor too!\n\nAs luck would have it, I got a new job as a web developer around the same time TheMaoci figured out how to make EmuTarkov work with 0.12. This meant I could fully focus on my work as TheMaoci and Baliston making massive progress on the server during this time.\n\nWhile taking it slow, working 3 days a week and trying to get my time at university out of my system I couldn't sit still and do nothing on EmuTarkov. The discord channel became a new home for me, and my joy of programming returned. Who would have thought that working on the emulator actually landed me a job hahahaha.\n\nUnlike most people, I believe that you should do what you're passionate about, and share this love with others. Do what makes you the most content."
+			},
+			{
+				"Time": 1578965630,
+				"Text": "My message to you, part 11\n\nMy life started to stablize like our codebase did with every change. It was fantastic to see how every single change had meaningful impact on supporting the new version, and \n\nWe released the first alpha release for 0.8.0. We knew that this was going to be big, but we never expected it to be this big. The whole server went insane, filled with a childlike excitement and with lots of love and passion. Everyone helped each other to get their hands on the newest release so they could enjoy it too, and help out where needed.\n\nTheir passion, genuine love and excitement for the release is one of the most beautiful things I've ever seen, and the most humbling experience I've ever had.\n\nMaoci and BALIST0N scaled down their contributions as they had their own issues in life to deal with or gained other interests, I instead increased my contribution and started to be very active inside the discord."
+			},
+			{
+				"Time": 1578966000,
+				"Text": "My message to you, part 12\n\nApofis tagged along, and wrote some very impressive code. He made it possible what we couldn't. 0.11 supported offline progression code written by the original team, but this code was broken for 0.12 due to the changes made to the game. Apofis however somehow managed to make this possible against all odds, and this meant that our emulator supported this feature again.\n\nAs time went on, more features were included into the emulator. One of these features is first-time profile creation, which we couldn't get to work for one and a half years. Then I figured it out by accident as I was grabbing data from the game's servers: we looked at the wrong place all this time. Needless to say I was very proud to have written this feature, especially since I always wanted to have it.\n\nIt now enabled most features of BattleState Games version of the game, but one of the remaining things never touched was playing as a scavenger. PoloYolo made it possible, granting me a very dear wish to come true."
+			},
+			{
+				"Time": 1578966400,
+				"Text": "My message to you, part 13\n\nI didn't expect to write this much hahahahahaha. At first I thought of writing one of these every new release, but I forgot to do it each time. I always end up getting distracted by work I want to do on the emulator.\n\nSpeaking of which, did you know I am exceptionally bad at this game? You should be if you read all the previous parts haha. But no seriously, I am really bad at the game. Yet it has such an unique charm which makes me coming back to it\n\nI think that charm is that this game is like our emulator crafted with love. It is perhaps not the most stable game like the original S.T.A.L.K.E.R. triologies (my favorite games, Call of Pripyat being my undefeated favorite, I love the Call of Chernobyl mod to death too) but all made with care and attention to crafting a believable world. The game also has some of the most unique features I've seen, such as the weapon modding system.\n\nIt sadly isn't the easiest game to write an emulator for because their code isn't that great hahaha."
+			},
+			{
+				"Time": 1578966780,
+				"Text": "My message to you, part 14.\n\nSomehow I really like the number 14, so this will be the last note written here. For this note, I will take my time to thank all of you for being part of this amazing experience. I never expected this project to become so big that over 3000 unique users have donwloaded this, as I did all the work for primary my desire of creating something I wanted.\n\nI never expected the community to be as healthy, caring, understanding, open minded and kind as it is. I never expected that this would land me a job and even less that I am now granted the oppertunity to say that I love all of you. Every single one of you.\n\nAlways follow your heart, listen to yourself, love yourself for whom you are and choose what makes you most content in life (not happy, because that's short term). You are bound to nothing except the rules you follow. A man might not be free of concequence, but he is free to choose. Follow your passion, and don't let society stop you from doing what you love."
+			},
+			{
+				"Time": 1578966910,
+				"Text": "My message to you\n\n\n\n\n\n\n\n\n\n.From the bottom of my heart, thank you.\n\n.Merijn Hendriks, 14/01/2020 03:00 AM\n.innohurrytocode@gmail.com"
+			}
+		]
+	},
+	"Quests": [],
+	"TraderStandings": {
+		"54cb50c76803fa8b248b4571": {
+			"currentLevel": 4,
+			"currentSalesSum": 2300000,
+			"currentStanding": 0.5,
+			"NextLoyalty": null,
+			"loyaltyLevels": {
+				"0": {
+					"minLevel": 1,
+					"minSalesSum": 0,
+					"minStanding": 0
+				},
+				"1": {
+					"minLevel": 15,
+					"minSalesSum": 1000000,
+					"minStanding": 0.2
+				},
+				"2": {
+					"minLevel": 22,
+					"minSalesSum": 1500000,
+					"minStanding": 0.35
+				},
+				"3": {
+					"minLevel": 33,
+					"minSalesSum": 2300000,
+					"minStanding": 0.5
+				}
+			}
+		},
+		"54cb57776803fa99248b456e": {
+			"currentLevel": 4,
+			"currentSalesSum": 900000,
+			"currentStanding": 0.6,
+			"NextLoyalty": null,
+			"loyaltyLevels": {
+				"0": {
+					"minLevel": 0,
+					"minSalesSum": 0,
+					"minStanding": 0
+				},
+				"1": {
+					"minLevel": 13,
+					"minSalesSum": 400000,
+					"minStanding": 0.15
+				},
+				"2": {
+					"minLevel": 20,
+					"minSalesSum": 700000,
+					"minStanding": 0.3
+				},
+				"3": {
+					"minLevel": 32,
+					"minSalesSum": 900000,
+					"minStanding": 0.6
+				}
+			}
+		},
+		"579dc571d53a0658a154fbec": {
+			"currentLevel": 1,
+			"currentSalesSum": 0,
+			"currentStanding": 0,
+			"NextLoyalty": null,
+			"loyaltyLevels": {
+				"0": {
+					"minLevel": 1,
+					"minSalesSum": 0,
+					"minStanding": 0
+				}
+			}
+		},
+		"58330581ace78e27b8b10cee": {
+			"currentLevel": 4,
+			"currentSalesSum": 2600000,
+			"currentStanding": 0.75,
+			"NextLoyalty": null,
+			"loyaltyLevels": {
+				"0": {
+					"minLevel": 1,
+					"minSalesSum": 0,
+					"minStanding": 0
+				},
+				"1": {
+					"minLevel": 15,
+					"minSalesSum": 1100000,
+					"minStanding": 0.2
+				},
+				"2": {
+					"minLevel": 28,
+					"minSalesSum": 1600000,
+					"minStanding": 0.4
+				},
+				"3": {
+					"minLevel": 35,
+					"minSalesSum": 2600000,
+					"minStanding": 0.75
+				}
+			}
+		},
+		"5935c25fb3acc3127c3d8cd9": {
+			"currentLevel": 4,
+			"currentSalesSum": 32000,
+			"currentStanding": 0.6,
+			"NextLoyalty": null,
+			"loyaltyLevels": {
+				"0": {
+					"minLevel": 1,
+					"minSalesSum": 0,
+					"minStanding": 0
+				},
+				"1": {
+					"minLevel": 10,
+					"minSalesSum": 13000,
+					"minStanding": 0
+				},
+				"2": {
+					"minLevel": 18,
+					"minSalesSum": 25000,
+					"minStanding": 0.3
+				},
+				"3": {
+					"minLevel": 29,
+					"minSalesSum": 32000,
+					"minStanding": 0.6
+				}
+			}
+		},
+		"5a7c2eca46aef81a7ca2145d": {
+			"currentLevel": 4,
+			"currentSalesSum": 2500000,
+			"currentStanding": 0.5,
+			"NextLoyalty": null,
+			"loyaltyLevels": {
+				"0": {
+					"minLevel": 1,
+					"minSalesSum": 0,
+					"minStanding": 0
+				},
+				"1": {
+					"minLevel": 20,
+					"minSalesSum": 1000000,
+					"minStanding": 0.15
+				},
+				"2": {
+					"minLevel": 30,
+					"minSalesSum": 1600000,
+					"minStanding": 0.3
+				},
+				"3": {
+					"minLevel": 40,
+					"minSalesSum": 2500000,
+					"minStanding": 0.6
+				}
+			}
+		},
+		"5ac3b934156ae10c4430e83c": {
+			"currentLevel": 4,
+			"currentSalesSum": 2500000,
+			"currentStanding": 0.6,
+			"NextLoyalty": null,
+			"loyaltyLevels": {
+				"0": {
+					"minLevel": 1,
+					"minSalesSum": 0,
+					"minStanding": 0
+				},
+				"1": {
+					"minLevel": 15,
+					"minSalesSum": 1000000,
+					"minStanding": 0
+				},
+				"2": {
+					"minLevel": 30,
+					"minSalesSum": 1600000,
+					"minStanding": 0.3
+				},
+				"3": {
+					"minLevel": 40,
+					"minSalesSum": 2500000,
+					"minStanding": 0.6
+				}
+			}
+		},
+		"5c0647fdd443bc2504c2d371": {
+			"currentLevel": 4,
+			"currentSalesSum": 2300000,
+			"currentStanding": 0.5,
+			"NextLoyalty": null,
+			"loyaltyLevels": {
+				"0": {
+					"minLevel": 1,
+					"minSalesSum": 0,
+					"minStanding": 0
+				},
+				"1": {
+					"minLevel": 15,
+					"minSalesSum": 1000000,
+					"minStanding": 0.2
+				},
+				"2": {
+					"minLevel": 22,
+					"minSalesSum": 1500000,
+					"minStanding": 0.35
+				},
+				"3": {
+					"minLevel": 33,
+					"minSalesSum": 2300000,
+					"minStanding": 0.5
+				}
+			}
+		},
+		"ragfair": {
+			"currentLevel": 1,
+			"currentSalesSum": 0,
+			"currentStanding": 0,
+			"NextLoyalty": null,
+			"loyaltyLevels": {
+				"0": {
+					"minLevel": 1,
+					"minSalesSum": 0,
+					"minStanding": 0
+				}
+			}
+		}
+	},
+	"RagfairInfo": {
+		"rating": 0.2,
+		"isRatingGrowing": true,
+		"offers": []
+	},
+	"WishList": []
+}

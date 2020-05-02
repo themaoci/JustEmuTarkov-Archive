@@ -1,0 +1,25 @@
+{
+	"Id": "loot_shop_oli_vedodmost_part25862028",
+	"IsStatic": false,
+	"useGravity": false,
+	"randomRotation": false,
+	"Position": {
+		"x": 86.60339,
+		"y": 28.06081,
+		"z": 120.860718
+	},
+	"Rotation": {
+		"x": 276.974365,
+		"y": 252.137726,
+		"z": 315.13678
+	},
+	"IsGroupPosition": false,
+	"GroupPositions": [],
+	"Root": "5db5d04d5442d7070d0f447f",
+	"Items": [
+		{
+			"_id": "5db5d04d5442d7070d0f447f",
+			"_tpl": "5ae9a25386f7746dd946e6d9"
+		}
+	]
+}

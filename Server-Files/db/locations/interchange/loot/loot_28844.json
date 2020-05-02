@@ -1,0 +1,25 @@
+{
+	"Id": "loot_food_simp_meds (16)5863360",
+	"IsStatic": false,
+	"useGravity": true,
+	"randomRotation": true,
+	"Position": {
+		"x": 145.485352,
+		"y": 19.9458122,
+		"z": -408.908325
+	},
+	"Rotation": {
+		"x": 0,
+		"y": 0,
+		"z": 0
+	},
+	"IsGroupPosition": false,
+	"GroupPositions": [],
+	"Root": "5e0675d50b8cde1bad722083",
+	"Items": [
+		{
+			"_id": "5e0675d50b8cde1bad722083",
+			"_tpl": "544fb3364bdc2d34748b456a"
+		}
+	]
+}

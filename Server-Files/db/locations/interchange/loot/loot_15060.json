@@ -1,0 +1,25 @@
+{
+	"Id": "loot_building (68)4943366",
+	"IsStatic": false,
+	"useGravity": true,
+	"randomRotation": true,
+	"Position": {
+		"x": -72.85364,
+		"y": 28.4318123,
+		"z": -182.8783
+	},
+	"Rotation": {
+		"x": 0,
+		"y": 0,
+		"z": 0
+	},
+	"IsGroupPosition": false,
+	"GroupPositions": [],
+	"Root": "5d31e3c6645bb7074f706730",
+	"Items": [
+		{
+			"_id": "5d31e3c6645bb7074f706730",
+			"_tpl": "57347c5b245977448d35f6e1"
+		}
+	]
+}

@@ -1,0 +1,61 @@
+{
+	"server": {
+		"ip": "127.0.0.1",
+		"generateIp": false,
+		"httpPort": 80,
+		"httpsPort": 443,
+		"eventPollIntervalSec": 60,
+		"rebuildCache": false
+	},
+	"autosave": {
+		"saveOnExit": true,
+		"saveIntervalSec": 300,
+		"saveOnReceive": true
+	},
+	"gameplay": {
+		"inraid": {
+			"saveLootEnabled": true,
+			"saveHealthEnabled": true,
+			"saveHealthMultiplier": 0.1
+		},
+		"bots": {
+			"pmcEnabled": true,
+			"pmcSpawnChance": 15,
+			"pmcUsecChance": 50
+		},
+		"trading": {
+			"ragfairMultiplier": 1,
+			"repairMultiplier": 1,
+			"insureMultiplier": 0.1,
+			"insureReturnChance": 75,
+			"fenceAssortSize": 300,
+			"buyItemsMarkedFound": false
+		},
+		"location": {
+			"realTimeEnabled": true,
+			"forceWeatherEnabled": false,
+			"forceWeatherId": 0
+		},
+		"locationloot": {
+			"bigmap": 320,
+			"develop": 20,
+			"factory4_day": 70,
+			"factory4_night": 70,
+			"interchange": 1000,
+			"laboratory": 550,
+			"rezervbase": 1500,
+			"shoreline": 700,
+			"woods": 140,
+			"hideout": 0,
+			"lighthouse": 0,
+			"privatearea": 0,
+			"suburbs": 0,
+			"tarkovstreets": 0,
+			"terminal": 0,
+			"town": 0
+		}
+	},
+	"mods": {
+		"list": []
+	}
+}

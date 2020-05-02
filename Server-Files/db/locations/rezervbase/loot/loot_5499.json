@@ -1,0 +1,34 @@
+{
+	"Id": "loot_ammo_rus (5)3941576",
+	"IsStatic": false,
+	"useGravity": true,
+	"randomRotation": true,
+	"Position": {
+		"x": 3.1975708,
+		"y": -6.360081,
+		"z": -16.8215637
+	},
+	"Rotation": {
+		"x": 0,
+		"y": 0,
+		"z": 0
+	},
+	"IsGroupPosition": false,
+	"GroupPositions": [],
+	"Root": "5e382a2468b10c71c3113348",
+	"Items": [
+		{
+			"_id": "5e382a2468b10c71c3113348",
+			"_tpl": "5737256c2459776125652acd"
+		},
+		{
+			"_id": "5e382a2468b10c71c3113349",
+			"_tpl": "57371aab2459775a77142f22",
+			"parentId": "5e382a2468b10c71c3113348",
+			"slotId": "cartridges",
+			"upd": {
+				"StackObjectsCount": 16
+			}
+		}
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"_id": "5e3c0b837dfe975b6f2b0a82",
+	"_tpl": "5aafbde786f774389d0cbc0f",
+	"parentId": "hideout",
+	"slotId": "hideout",
+	"upd": {
+		"UnlimitedCount": true,
+		"StackObjectsCount": 500000
+	}
+}

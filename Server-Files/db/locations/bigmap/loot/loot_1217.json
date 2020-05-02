@@ -1,0 +1,28 @@
+{
+	"Id": "Loot 19 (9)6935652",
+	"IsStatic": false,
+	"useGravity": true,
+	"randomRotation": false,
+	"Position": {
+		"x": 292.121,
+		"y": 1.5664,
+		"z": -190.888
+	},
+	"Rotation": {
+		"x": -4.26886828e-7,
+		"y": 37.8216743,
+		"z": 0
+	},
+	"IsGroupPosition": false,
+	"GroupPositions": [],
+	"Root": "5e3829f2ecfb65468500d3af",
+	"Items": [
+		{
+			"_id": "5e3829f2ecfb65468500d3af",
+			"_tpl": "59e6542b86f77411dc52a77a",
+			"upd": {
+				"StackObjectsCount": 49
+			}
+		}
+	]
+}

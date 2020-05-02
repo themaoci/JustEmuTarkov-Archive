@@ -1,0 +1,25 @@
+{
+	"Id": "quest_case2036937584",
+	"IsStatic": false,
+	"useGravity": false,
+	"randomRotation": false,
+	"Position": {
+		"x": 178.07,
+		"y": 2.877,
+		"z": 148.702
+	},
+	"Rotation": {
+		"x": 0.00000170754754,
+		"y": 0,
+		"z": 0
+	},
+	"IsGroupPosition": false,
+	"GroupPositions": [],
+	"Root": "5e3829f2ecfb65468500d3f0",
+	"Items": [
+		{
+			"_id": "5e3829f2ecfb65468500d3f0",
+			"_tpl": "590dde5786f77405e71908b2"
+		}
+	]
+}

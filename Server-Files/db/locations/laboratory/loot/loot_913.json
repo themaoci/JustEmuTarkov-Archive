@@ -1,0 +1,25 @@
+{
+	"Id": "loot_stimulators (48)4560992",
+	"IsStatic": false,
+	"useGravity": true,
+	"randomRotation": true,
+	"Position": {
+		"x": -125.915,
+		"y": 0.269,
+		"z": -352.665
+	},
+	"Rotation": {
+		"x": 0,
+		"y": 0,
+		"z": 0
+	},
+	"IsGroupPosition": false,
+	"GroupPositions": [],
+	"Root": "5e0675f55fd55152ed5e3726",
+	"Items": [
+		{
+			"_id": "5e0675f55fd55152ed5e3726",
+			"_tpl": "5c0e533786f7747fa23f4d47"
+		}
+	]
+}

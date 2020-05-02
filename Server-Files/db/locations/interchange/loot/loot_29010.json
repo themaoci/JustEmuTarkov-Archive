@@ -1,0 +1,25 @@
+{
+	"Id": "loot_mobile_stuff (2)5859230",
+	"IsStatic": false,
+	"useGravity": true,
+	"randomRotation": true,
+	"Position": {
+		"x": 97.84338,
+		"y": 27.4338112,
+		"z": -31.1392822
+	},
+	"Rotation": {
+		"x": 0,
+		"y": 0,
+		"z": 0
+	},
+	"IsGroupPosition": false,
+	"GroupPositions": [],
+	"Root": "5db5d07542a81007cb24ef19",
+	"Items": [
+		{
+			"_id": "5db5d07542a81007cb24ef19",
+			"_tpl": "5909e99886f7740c983b9984"
+		}
+	]
+}

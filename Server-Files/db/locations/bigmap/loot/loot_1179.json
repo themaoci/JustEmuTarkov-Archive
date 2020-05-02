@@ -1,0 +1,28 @@
+{
+	"Id": "Loot 135 (1)6938466",
+	"IsStatic": false,
+	"useGravity": true,
+	"randomRotation": true,
+	"Position": {
+		"x": 183.864,
+		"y": 6.351,
+		"z": 183.675
+	},
+	"Rotation": {
+		"x": 0,
+		"y": 252.0725,
+		"z": 0
+	},
+	"IsGroupPosition": false,
+	"GroupPositions": [],
+	"Root": "5e3829f2ecfb65468500d368",
+	"Items": [
+		{
+			"_id": "5e3829f2ecfb65468500d368",
+			"_tpl": "54527ac44bdc2d36668b4567",
+			"upd": {
+				"StackObjectsCount": 22
+			}
+		}
+	]
+}

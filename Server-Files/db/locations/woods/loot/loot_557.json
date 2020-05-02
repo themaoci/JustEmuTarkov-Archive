@@ -1,0 +1,25 @@
+{
+	"Id": "LootMedsGlassesKnifeTool (8)2281910",
+	"IsStatic": false,
+	"useGravity": true,
+	"randomRotation": false,
+	"Position": {
+		"x": 70.12799,
+		"y": -0.09000015,
+		"z": -37.7139969
+	},
+	"Rotation": {
+		"x": 0,
+		"y": 0,
+		"z": 0
+	},
+	"IsGroupPosition": false,
+	"GroupPositions": [],
+	"Root": "5e382a127e788532af35ff47",
+	"Items": [
+		{
+			"_id": "5e382a127e788532af35ff47",
+			"_tpl": "590c2c9c86f774245b1f03f2"
+		}
+	]
+}

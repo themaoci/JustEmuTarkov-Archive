@@ -1,0 +1,53 @@
+{
+	"Id": "loot_case_feld6935616",
+	"IsStatic": false,
+	"useGravity": false,
+	"randomRotation": false,
+	"Position": {
+		"x": 239.183,
+		"y": 0.713,
+		"z": 160.595
+	},
+	"Rotation": {
+		"x": 88.61195,
+		"y": 270.000122,
+		"z": 0.00007048267
+	},
+	"IsGroupPosition": false,
+	"GroupPositions": [],
+	"Root": "5e382a0af470ac6fd82e785c",
+	"Items": [
+		{
+			"_id": "5e382a0af470ac6fd82e785c",
+			"_tpl": "5910922b86f7747d96753483"
+		},
+		{
+			"_id": "5e382a0af470ac6fd82e785d",
+			"_tpl": "5449016a4bdc2d6f028b456f",
+			"parentId": "5e382a0af470ac6fd82e785c",
+			"slotId": "main",
+			"location": {
+				"x": 0,
+				"y": 0,
+				"r": 0
+			},
+			"upd": {
+				"StackObjectsCount": 662
+			}
+		},
+		{
+			"_id": "5e382a0af470ac6fd82e785e",
+			"_tpl": "569668774bdc2da2298b4568",
+			"parentId": "5e382a0af470ac6fd82e785c",
+			"slotId": "main",
+			"location": {
+				"x": 1,
+				"y": 0,
+				"r": 0
+			},
+			"upd": {
+				"StackObjectsCount": 80
+			}
+		}
+	]
+}

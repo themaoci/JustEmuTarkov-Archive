@@ -1,0 +1,25 @@
+{
+	"Id": "LootGarbage (37)(Clone)4377008",
+	"IsStatic": false,
+	"useGravity": true,
+	"randomRotation": false,
+	"Position": {
+		"x": -171.165344,
+		"y": -54.966198,
+		"z": 386.0973
+	},
+	"Rotation": {
+		"x": -0.0000122872289,
+		"y": 323.381439,
+		"z": -0.00005966725
+	},
+	"IsGroupPosition": false,
+	"GroupPositions": [],
+	"Root": "5e382a172855471525603d27",
+	"Items": [
+		{
+			"_id": "5e382a172855471525603d27",
+			"_tpl": "590c5d4b86f774784e1b9c45"
+		}
+	]
+}

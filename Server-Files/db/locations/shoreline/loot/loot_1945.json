@@ -1,0 +1,44 @@
+{
+	"Id": "Loot_barter[2] (50)4378914",
+	"IsStatic": false,
+	"useGravity": true,
+	"randomRotation": false,
+	"Position": {
+		"x": -170.001953,
+		"y": 0.313,
+		"z": -88.125
+	},
+	"Rotation": {
+		"x": 0,
+		"y": 0,
+		"z": 0
+	},
+	"IsGroupPosition": false,
+	"GroupPositions": [],
+	"Root": "5e382a0a8e89a76b703a1704",
+	"Items": [
+		{
+			"_id": "5e382a0a8e89a76b703a1704",
+			"_tpl": "57372c21245977670937c6c2"
+		},
+		{
+			"_id": "5e382a0a8e89a76b703a1705",
+			"_tpl": "56dff061d2720bb5668b4567",
+			"parentId": "5e382a0a8e89a76b703a1704",
+			"slotId": "cartridges",
+			"upd": {
+				"StackObjectsCount": 60
+			}
+		},
+		{
+			"_id": "5e382a0a8e89a76b703a1706",
+			"_tpl": "56dff061d2720bb5668b4567",
+			"parentId": "5e382a0a8e89a76b703a1704",
+			"slotId": "cartridges",
+			"location": 1,
+			"upd": {
+				"StackObjectsCount": 60
+			}
+		}
+	]
+}

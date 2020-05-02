@@ -1,0 +1,25 @@
+{
+	"Id": "loot_drink (1)3921070",
+	"IsStatic": false,
+	"useGravity": true,
+	"randomRotation": true,
+	"Position": {
+		"x": -71.06586,
+		"y": -10.1125765,
+		"z": 25.7262878
+	},
+	"Rotation": {
+		"x": 0,
+		"y": 0,
+		"z": 0
+	},
+	"IsGroupPosition": false,
+	"GroupPositions": [],
+	"Root": "5e382a2468b10c71c311335a",
+	"Items": [
+		{
+			"_id": "5e382a2468b10c71c311335a",
+			"_tpl": "57513f9324597720a7128161"
+		}
+	]
+}

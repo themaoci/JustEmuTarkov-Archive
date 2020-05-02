@@ -1,0 +1,34 @@
+{
+	"Id": "loot_ammo_rare (5)4937714",
+	"IsStatic": false,
+	"useGravity": true,
+	"randomRotation": true,
+	"Position": {
+		"x": 108.290405,
+		"y": 22.42081,
+		"z": -60.65332
+	},
+	"Rotation": {
+		"x": 0,
+		"y": 209,
+		"z": 0
+	},
+	"IsGroupPosition": false,
+	"GroupPositions": [],
+	"Root": "5d31e3c6645bb7074f706725",
+	"Items": [
+		{
+			"_id": "5d31e3c6645bb7074f706725",
+			"_tpl": "5737330a2459776af32363a1"
+		},
+		{
+			"_id": "5d31e3c6645bb7074f706726",
+			"_tpl": "56dff0bed2720bb0668b4567",
+			"parentId": "5d31e3c6645bb7074f706725",
+			"slotId": "cartridges",
+			"upd": {
+				"StackObjectsCount": 30
+			}
+		}
+	]
+}

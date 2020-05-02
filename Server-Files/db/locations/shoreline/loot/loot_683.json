@@ -1,0 +1,25 @@
+{
+	"Id": "Loot_elec[2] (131)4376242",
+	"IsStatic": false,
+	"useGravity": true,
+	"randomRotation": true,
+	"Position": {
+		"x": 415.661865,
+		"y": -52.9349976,
+		"z": 167.6384
+	},
+	"Rotation": {
+		"x": 0,
+		"y": 0,
+		"z": 0
+	},
+	"IsGroupPosition": false,
+	"GroupPositions": [],
+	"Root": "5e3829f37e788532af35f88a",
+	"Items": [
+		{
+			"_id": "5e3829f37e788532af35f88a",
+			"_tpl": "590a3b0486f7743954552bdb"
+		}
+	]
+}

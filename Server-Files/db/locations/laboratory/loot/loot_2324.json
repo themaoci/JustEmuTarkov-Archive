@@ -1,0 +1,25 @@
+{
+	"Id": "loot_intel_docs1 (11)4560862",
+	"IsStatic": false,
+	"useGravity": true,
+	"randomRotation": true,
+	"Position": {
+		"x": -185.676,
+		"y": 1.038,
+		"z": -368.7
+	},
+	"Rotation": {
+		"x": 0,
+		"y": 0,
+		"z": 0
+	},
+	"IsGroupPosition": false,
+	"GroupPositions": [],
+	"Root": "5e0675f3ba96696e0f055965",
+	"Items": [
+		{
+			"_id": "5e0675f3ba96696e0f055965",
+			"_tpl": "5c12613b86f7743bbe2c3f76"
+		}
+	]
+}

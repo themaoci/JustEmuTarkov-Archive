@@ -1,0 +1,25 @@
+{
+	"Id": "loot_electr (8)3939722",
+	"IsStatic": false,
+	"useGravity": true,
+	"randomRotation": true,
+	"Position": {
+		"x": -128.633,
+		"y": -2.13182378,
+		"z": -16.55487
+	},
+	"Rotation": {
+		"x": 0,
+		"y": 0,
+		"z": 0
+	},
+	"IsGroupPosition": false,
+	"GroupPositions": [],
+	"Root": "5e382a10ecfb65468500d9c5",
+	"Items": [
+		{
+			"_id": "5e382a10ecfb65468500d9c5",
+			"_tpl": "5734779624597737e04bf329"
+		}
+	]
+}

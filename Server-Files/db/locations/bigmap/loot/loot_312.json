@@ -1,0 +1,34 @@
+{
+	"Id": "GunsafeSpawn 1 (7)(Clone)6935460",
+	"IsStatic": false,
+	"useGravity": true,
+	"randomRotation": false,
+	"Position": {
+		"x": 170.963577,
+		"y": 3.31660414,
+		"z": 149.084137
+	},
+	"Rotation": {
+		"x": 270,
+		"y": 228.420044,
+		"z": 0
+	},
+	"IsGroupPosition": false,
+	"GroupPositions": [],
+	"Root": "5e382a14f470ac6fd82e7b30",
+	"Items": [
+		{
+			"_id": "5e382a14f470ac6fd82e7b30",
+			"_tpl": "587df583245977373c4f1129"
+		},
+		{
+			"_id": "5e382a14f470ac6fd82e7b31",
+			"_tpl": "59e0d99486f7744a32234762",
+			"parentId": "5e382a14f470ac6fd82e7b30",
+			"slotId": "cartridges",
+			"upd": {
+				"StackObjectsCount": 2
+			}
+		}
+	]
+}

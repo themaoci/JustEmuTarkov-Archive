@@ -1,0 +1,68 @@
+{
+    "user": {
+        "cache": {},
+        "profiles": {
+            "assort": {},
+            "traders": {},
+            "list": ""
+        },
+        "config": ""
+    },
+    "assort": {},
+    "bots": {
+        "base": "",
+        "assault": {},
+        "bear": {},
+        "bossbully": {},
+        "bossgluhar": {},
+        "bosskilla": {},
+        "bosskojaniy": {},
+        "followerbully": {},
+        "followergluharassault": {},
+        "followergluharscout": {},
+        "followergluharsecurity": {},
+        "followerkojaniy": {},
+        "marksman": {},
+        "pmcbot": {},
+        "usec": {}
+    },
+    "customization": {
+        "offers": {},
+        "outfits": {}
+    },
+    "dialogues": {},
+    "hideout": {
+        "settings": "",
+        "areas": {},
+        "production": {},
+        "scavcase": {}
+    },
+    "images": {
+        "banners": {},
+        "handbook": {},
+        "hideout": {},
+        "quest": {},
+        "trader": {}
+    },
+    "items": {},
+    "locales": {},
+    "locations": {},
+    "profile": {
+        "character": {}
+    },
+    "quests": {},
+    "ragfair": {
+        "offer": "",
+        "search": ""
+    },
+    "src": {
+        "classes": {},
+        "responses": {}
+    },
+    "templates": {
+        "categories": {},
+        "items": {}
+    },
+    "traders": {},
+    "weather": {}
+}

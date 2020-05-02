@@ -1,0 +1,25 @@
+{
+	"Id": "loot_inteleg (2)3934924",
+	"IsStatic": false,
+	"useGravity": false,
+	"randomRotation": false,
+	"Position": {
+		"x": -124.448975,
+		"y": -4.545,
+		"z": 34.9960022
+	},
+	"Rotation": {
+		"x": 0,
+		"y": 135.458725,
+		"z": 0
+	},
+	"IsGroupPosition": false,
+	"GroupPositions": [],
+	"Root": "5e382a1e1d55576e1a52740a",
+	"Items": [
+		{
+			"_id": "5e382a1e1d55576e1a52740a",
+			"_tpl": "5c12613b86f7743bbe2c3f76"
+		}
+	]
+}

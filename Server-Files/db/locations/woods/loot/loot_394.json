@@ -1,0 +1,25 @@
+{
+	"Id": "loot_case_00522293858",
+	"IsStatic": false,
+	"useGravity": false,
+	"randomRotation": false,
+	"Position": {
+		"x": -3.322,
+		"y": -1.4843,
+		"z": -81.1259
+	},
+	"Rotation": {
+		"x": 270,
+		"y": 14.9999733,
+		"z": 0
+	},
+	"IsGroupPosition": false,
+	"GroupPositions": [],
+	"Root": "5e382a07ecfb65468500d766",
+	"Items": [
+		{
+			"_id": "5e382a07ecfb65468500d766",
+			"_tpl": "5938878586f7741b797c562f"
+		}
+	]
+}

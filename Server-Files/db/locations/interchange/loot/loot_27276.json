@@ -1,0 +1,25 @@
+{
+	"Id": "loot_cigarettes (1)5857938",
+	"IsStatic": false,
+	"useGravity": true,
+	"randomRotation": true,
+	"Position": {
+		"x": -63.4996338,
+		"y": 27.3638115,
+		"z": 0.375732422
+	},
+	"Rotation": {
+		"x": 0,
+		"y": 0,
+		"z": 0
+	},
+	"IsGroupPosition": false,
+	"GroupPositions": [],
+	"Root": "5db5d061533aa77c477a6522",
+	"Items": [
+		{
+			"_id": "5db5d061533aa77c477a6522",
+			"_tpl": "573476f124597737e04bf328"
+		}
+	]
+}

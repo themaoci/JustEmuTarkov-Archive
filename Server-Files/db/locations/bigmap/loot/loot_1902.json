@@ -1,0 +1,25 @@
+{
+	"Id": "Loot 158 (21)6937810",
+	"IsStatic": false,
+	"useGravity": true,
+	"randomRotation": false,
+	"Position": {
+		"x": 564.917,
+		"y": 2.59,
+		"z": -90.101
+	},
+	"Rotation": {
+		"x": 2.66804268e-8,
+		"y": 177.666946,
+		"z": 0
+	},
+	"IsGroupPosition": false,
+	"GroupPositions": [],
+	"Root": "5e382a0af470ac6fd82e7821",
+	"Items": [
+		{
+			"_id": "5e382a0af470ac6fd82e7821",
+			"_tpl": "576a7c512459771e796e0e17"
+		}
+	]
+}

@@ -1,0 +1,92 @@
+{
+	"54cb57776803fa99248b456e": {
+		"_id": "54cb57776803fa99248b456e",
+		"messages": [
+			{
+				"_id": "D026113593100518013eLUmP",
+				"uid": "54cb57776803fa99248b456e",
+				"type": 10,
+				"dt": 1580034909.899,
+				"templateId": "5abe61a786f7746ad512da4e",
+				"hasRewards": false,
+				"items": {}
+			},
+			{
+				"_id": "D0261135252424932477c5e7",
+				"uid": "54cb57776803fa99248b456e",
+				"type": 12,
+				"dt": 1580034925.87,
+				"templateId": "5ab0f32686f7745dd409f56b",
+				"hasRewards": true,
+				"items": {
+					"stash": "I0261135257996395721CPfE",
+					"data": [
+						{
+							"_id": "I026113525367828641896vi",
+							"_tpl": "5449016a4bdc2d6f028b456f",
+							"upd": {
+								"StackObjectsCount": 10000
+							},
+							"parentId": "5df7b9abef12bf7a2524385f",
+							"slotId": "hideout",
+							"location": {
+								"x": 0,
+								"y": 1,
+								"r": "Horizontal",
+								"isSearched": true
+							}
+						},
+						{
+							"_id": "I0261135251430565626ufRB",
+							"_tpl": "544fb37f4bdc2dee738b4567",
+							"upd": {
+								"StackObjectsCount": 4
+							},
+							"parentId": "5df7b9abef12bf7a2524385f",
+							"slotId": "hideout",
+							"location": {
+								"x": 9,
+								"y": 0,
+								"r": "Horizontal",
+								"isSearched": true
+							}
+						},
+						{
+							"_id": "I0261135259507319721JDVz",
+							"_tpl": "5755356824597772cb798962",
+							"upd": {
+								"StackObjectsCount": 4
+							},
+							"parentId": "5df7b9abef12bf7a2524385f",
+							"slotId": "hideout",
+							"location": {
+								"x": 8,
+								"y": 0,
+								"r": "Horizontal",
+								"isSearched": true
+							}
+						},
+						{
+							"_id": "I0261135253114938900YI8g",
+							"_tpl": "544fb3364bdc2d34748b456a",
+							"upd": {
+								"StackObjectsCount": 4
+							},
+							"parentId": "5df7b9abef12bf7a2524385f",
+							"slotId": "hideout",
+							"location": {
+								"x": 7,
+								"y": 0,
+								"r": "Horizontal",
+								"isSearched": true
+							}
+						}
+					]
+				}
+			}
+		],
+		"pinned": false,
+		"new": 0,
+		"attachmentsNew": 0
+	}
+}

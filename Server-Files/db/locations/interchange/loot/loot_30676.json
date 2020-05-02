@@ -1,0 +1,25 @@
+{
+	"Id": "loot_tool (59)4936182",
+	"IsStatic": false,
+	"useGravity": true,
+	"randomRotation": true,
+	"Position": {
+		"x": -181.116577,
+		"y": 27.7158089,
+		"z": 5.251709
+	},
+	"Rotation": {
+		"x": 0,
+		"y": 0,
+		"z": 0
+	},
+	"IsGroupPosition": false,
+	"GroupPositions": [],
+	"Root": "5d31e408645bb70f94277d6a",
+	"Items": [
+		{
+			"_id": "5d31e408645bb70f94277d6a",
+			"_tpl": "56742c2e4bdc2d95058b456d"
+		}
+	]
+}

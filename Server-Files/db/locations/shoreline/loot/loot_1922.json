@@ -1,0 +1,25 @@
+{
+	"Id": "Hyundai_Bogdan_A202_open [0] 0(Clone)4377762",
+	"IsStatic": false,
+	"useGravity": true,
+	"randomRotation": false,
+	"Position": {
+		"x": -74.7641,
+		"y": -20.2949982,
+		"z": -1.397234
+	},
+	"Rotation": {
+		"x": -0.000132868532,
+		"y": 325.627747,
+		"z": 183.296112
+	},
+	"IsGroupPosition": false,
+	"GroupPositions": [],
+	"Root": "5e382a0a8e89a76b703a16ec",
+	"Items": [
+		{
+			"_id": "5e382a0a8e89a76b703a16ec",
+			"_tpl": "57347c5b245977448d35f6e1"
+		}
+	]
+}

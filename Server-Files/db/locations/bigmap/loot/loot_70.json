@@ -1,0 +1,25 @@
+{
+	"Id": "Loot_mod_ammo_mods (18)6935242",
+	"IsStatic": false,
+	"useGravity": true,
+	"randomRotation": true,
+	"Position": {
+		"x": 645.174,
+		"y": 0.049,
+		"z": -17.787
+	},
+	"Rotation": {
+		"x": 0,
+		"y": 0,
+		"z": 0
+	},
+	"IsGroupPosition": false,
+	"GroupPositions": [],
+	"Root": "5e382a0af470ac6fd82e786a",
+	"Items": [
+		{
+			"_id": "5e382a0af470ac6fd82e786a",
+			"_tpl": "59e89d0986f77427600d226e"
+		}
+	]
+}

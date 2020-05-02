@@ -1,0 +1,25 @@
+{
+	"Id": "loot_oli5869326",
+	"IsStatic": false,
+	"useGravity": true,
+	"randomRotation": true,
+	"Position": {
+		"x": -113.578613,
+		"y": 27.7188072,
+		"z": 192.3927
+	},
+	"Rotation": {
+		"x": 0,
+		"y": 88.99999,
+		"z": 0
+	},
+	"IsGroupPosition": false,
+	"GroupPositions": [],
+	"Root": "5e0675ce243fd85e273fe0d5",
+	"Items": [
+		{
+			"_id": "5e0675ce243fd85e273fe0d5",
+			"_tpl": "57347c5b245977448d35f6e1"
+		}
+	]
+}
